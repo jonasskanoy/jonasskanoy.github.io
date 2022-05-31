@@ -24,6 +24,10 @@ enableEmoji = true
 	avatarURL = "images/profile.jpg"
 	#gravatar = "john.doe@example.com"
 	
+	  favicon_32 = "/images/profile.jpg"
+	  favicon_16 = "images/profile.jpg"
+
+
 	dateFormat = "2/11/2006"
 	since = 2022
 
