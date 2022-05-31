@@ -70,7 +70,6 @@ enableEmoji = true
 	icon = "fa fa-2x fa-rss"
 	weight = 2
 	url = "https://www.jonasskanoy.xyz/posts/index.xml"
-	rel = "alternate"
 	type = "application/rss+xml"
 
 [languages.en]
