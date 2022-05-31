@@ -4,42 +4,48 @@ theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
 
+
 paginate = 20
 
-pygmentsStyle = "bw"
-pygmentsCodeFences = true
-pygmentsCodeFencesGuessSyntax = true
 
-enableTwemoji = true
+pygmentsStyle = "bw"
+pygmentsCodeFences = false
+pygmentsCodeFencesGuessSyntax = false
+enableEmoji = true
+
 # Enable Disqus comments
 # disqusShortname = "yourdiscussshortname"
 
 [params]
-author = "Jonas Berg Skånøy"
-# license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
+author = "Jonas B. Skånøy"
+description = "Jonas Skånøy's personal website"
 keywords = "blog,developer,personal"
 info = ["Philosophy", "Tech"]
 avatarURL = "images/profile.jpg"
 #gravatar = "john.doe@example.com"
+	
+favicon_32 = "images/profile.jpg"
+favicon_16 = "images/profile.jpg"
 
-favicon_32 = "/images/profile.jpg"
-favicon_16 = "/images/profile.jpg"
 
-
-dateFormat = "January 2, 2006"
+dateFormat = "2/11/2006"
 since = 2022
 
-# Right To Left, shift content direction for languagues such as Arabic
+enableTwemoji = true
+
 rtl = false
 
 colorScheme = "auto"
 hideColorSchemeToggle = false
-maxSeeAlsoItems = 5
+	
+# Custom CSS
+customCSS = []
 
-
-customCSS = ["css/custom.css"]
-customSCSS = ["scss/custom.scss"]
-customJS = ["js/custom.js"]
+# Custom SCSS, file path is relative to Hugo's asset folder (default: {your project root}/assets)
+customSCSS = []
+	
+# Custom JS
+customJS = []
 
 [taxonomies]
 category = "categories"
@@ -57,12 +63,12 @@ url = "https://github.com/jonasskanoy/"
 name = "RSS"
 icon = "fa fa-2x fa-rss"
 weight = 2
-url = "https://myhugosite.com/posts/index.xml"
+url = "https://www.jonasskanoy.xyz/posts/index.xml"
 rel = "alternate"
 type = "application/rss+xml"
 
 [languages.en]
-languageName = ":uk:"
+languageName = ":us:"
 
 [[languages.en.menu.main]]
 name = "About"
