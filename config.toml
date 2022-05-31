@@ -1,7 +1,7 @@
 baseURL = "https://www.jonasskanoy.xyz"
 title = "Jonas B. Skånøy"
 theme = "hugo-coder"
-languageCode = "en"
+languageCode = "en-us"
 defaultContentLanguage = "en"
 
 
