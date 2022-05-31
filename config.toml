@@ -4,9 +4,7 @@ theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
 
-
 paginate = 20
-
 
 pygmentsStyle = "bw"
 pygmentsCodeFences = true
@@ -26,7 +24,6 @@ avatarURL = "images/profile.jpg"
 	
 favicon_32 = "images/profile.jpg"
 favicon_16 = "images/profile.jpg"
-
 
 dateFormat = "2/11/2006"
 since = 2022
