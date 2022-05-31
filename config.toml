@@ -1,14 +1,16 @@
 baseURL = "https://www.jonasskanoy.xyz"
 title = "Jonas B. Skånøy"
 theme = "hugo-coder"
-languageCode = "en-us"
+languageCode = "en"
 defaultContentLanguage = "en"
+
+paginate = 20
 
 pygmentsStyle = "bw"
 pygmentsCodeFences = true
 pygmentsCodeFencesGuessSyntax = true
 
-enableEmoji = true
+enableTwemoji = true
 # Enable Disqus comments
 # disqusShortname = "yourdiscussshortname"
 
@@ -34,12 +36,10 @@ colorScheme = "auto"
 hideColorSchemeToggle = false
 maxSeeAlsoItems = 5
 
-# Custom CSS
-customCSS = []
-# Custom SCSS, file path is relative to Hugo's asset folder (default: {your project root}/assets)
-customSCSS = []
-# Custom JS
-customJS = []
+
+customCSS = ["css/custom.css"]
+customSCSS = ["scss/custom.scss"]
+customJS = ["js/custom.js"]
 
 [taxonomies]
 category = "categories"
@@ -62,7 +62,7 @@ rel = "alternate"
 type = "application/rss+xml"
 
 [languages.en]
-languageName = ":en:"
+languageName = ":uk:"
 
 [[languages.en.menu.main]]
 name = "About"
