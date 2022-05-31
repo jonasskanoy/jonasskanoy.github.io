@@ -1,8 +1,8 @@
 baseURL = "https://www.jonasskanoy.xyz"
 title = "Jonas B. Skånøy"
 theme = "hugo-coder"
-languageCode = "en-us"
-defaultContentLanguage = "en-us"
+languageCode = "en"
+defaultContentLanguage = "en"
 
 
 paginate = 20
@@ -74,7 +74,7 @@ enableEmoji = true
 	type = "application/rss+xml"
 
 [languages.en]
-	languageName = ":en-us:"
+	languageName = ":us:"
 
 [[languages.en.menu.main]]
 	name = "About"
