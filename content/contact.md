@@ -4,9 +4,10 @@ slug = "contact"
 +++
 
 ## :phone: Digital Contact Information
+I’m not on Telegram, I’m not on Twitter, I’m not on Facebook, I’m not on Reddit. So email and github will have to do.
 * Email: jonas@e.email
 * Github: [jonasskanoy](https://github.com/jonasskanoy)
-I’m not on Telegram, I’m not on Twitter, I’m not on Facebook, I’m not on Reddit.
+
 
 ## :closed_book: Rules
 1. Don’t contact me about gossip or political opinions, should go without saying these days.
