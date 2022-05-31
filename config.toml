@@ -2,7 +2,7 @@ baseURL = "https://www.jonasskanoy.xyz"
 title = "Jonas B. Skånøy"
 theme = "hugo-coder"
 languageCode = "en-us"
-defaultContentLanguage = "en"
+defaultContentLanguage = "en-us"
 
 
 paginate = 20
@@ -68,13 +68,13 @@ enableEmoji = true
 [[params.social]]
 	name = "RSS"
 	icon = "fa fa-2x fa-rss"
-	weight = 6
-	url = "https://www.jonasskanoy.xyz/rss.xml"
+	weight = 2
+	url = "https://www.jonasskanoy.xyz/index.xml"
 	rel = "alternate"
 	type = "application/rss+xml"
 
 [languages.en]
-	languageName = ":us:"
+	languageName = ":en-us:"
 
 [[languages.en.menu.main]]
 	name = "About"
@@ -88,5 +88,5 @@ enableEmoji = true
 
 [[languages.en.menu.main]]
 	name = "Contact me"
-	weight = 5
+	weight = 3
 	url = "contact/"
