@@ -14,10 +14,6 @@ enableEmoji = true
 # Enable Disqus comments
 # disqusShortname = "yourdiscussshortname"
 
-[outputs]
-  home = ['HTML', 'RSS']
-  page = ['HTML']
-
 [params]
 author = "Jonas Berg Skånøy"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
@@ -27,8 +23,9 @@ info = ["Philosophy", "Tech"]
 avatarURL = "images/profile.jpg"
 #gravatar = "john.doe@example.com"
 
-favicon_32 = "/images/profile.jpg"
-favicon_16 = "/images/profile.jpg"
+favicon_32 = "/img/favicon-32x32.png"
+favicon_16 = "/img/favicon-16x16.png"
+
 
 dateFormat = "January 2, 2006"
 since = 2022
