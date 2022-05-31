@@ -1,4 +1,4 @@
-baseURL = "https://www.jonasskanoy.xyz"
+baseURL = "jonasskanoy.xyz"
 title = "Jonas B. Skånøy"
 theme = "hugo-coder"
 languageCode = "en"
