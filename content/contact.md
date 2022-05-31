@@ -4,7 +4,7 @@ slug = "contact"
 +++
 
 ## :phone: Digital Contact Information
-I’m not on Telegram, I’m not on Twitter, I’m not on Facebook, I’m not on Reddit. So email and github will have to do.
+I’m not on Telegram, Twitter or Reddit. So email and github will have to do.
 * Email: jonas@e.email
 * Github: [jonasskanoy](https://github.com/jonasskanoy)
 
