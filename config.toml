@@ -17,80 +17,80 @@ enableEmoji = true
 # disqusShortname = "yourdiscussshortname"
 
 [params]
-	author = "Jonas B. Skånøy"
-	description = "Jonas Skånøy's personal website"
-	keywords = "blog,developer,personal"
-	info = ["Philosophy", "Tech"]
-	avatarURL = "images/profile.jpg"
-	#gravatar = "john.doe@example.com"
+author = "Jonas B. Skånøy"
+description = "Jonas Skånøy's personal website"
+keywords = "blog,developer,personal"
+info = ["Philosophy", "Tech"]
+avatarURL = "images/profile.jpg"
+#gravatar = "john.doe@example.com"
 	
-	  favicon_32 = "images/profile.jpg"
-	  favicon_16 = "images/profile.jpg"
+favicon_32 = "images/profile.jpg"
+favicon_16 = "images/profile.jpg"
 
 
-	dateFormat = "2/11/2006"
-	since = 2022
+dateFormat = "2/11/2006"
+since = 2022
 
-	enableTwemoji = true
+enableTwemoji = true
 
-	rtl = false
+rtl = false
 
-	# Specify light/dark colorscheme
-	# Supported values:
-	# "auto" (use preference set by browser)
-	# "dark" (dark background, light foreground)
-	# "light" (light background, dark foreground) (default)
-	colorScheme = "auto"
+# Specify light/dark colorscheme
+# Supported values:
+# "auto" (use preference set by browser)
+# "dark" (dark background, light foreground)
+# "light" (light background, dark foreground) (default)
+colorScheme = "auto"
 
-	# Hide the toggle button, along with the associated vertical divider
-	hideColorSchemeToggle = false
+# Hide the toggle button, along with the associated vertical divider
+hideColorSchemeToggle = false
 	
-	# Series see also post count
-	maxSeeAlsoItems = 5
+# Series see also post count
+maxSeeAlsoItems = 5
+
+# Custom CSS
+customCSS = []
+
+# Custom SCSS, file path is relative to Hugo's asset folder (default: {your project root}/assets)
+customSCSS = []
 	
-	# Custom CSS
-	customCSS = []
-	
-	# Custom SCSS, file path is relative to Hugo's asset folder (default: {your project root}/assets)
-	customSCSS = []
-	
-	# Custom JS
-	customJS = []
+# Custom JS
+customJS = []
 
 [taxonomies]
-	category = "categories"
-	series = "series"
-	tag = "tags"
-	author = "authors"
+category = "categories"
+series = "series"
+tag = "tags"
+author = "authors"
 
 [[params.social]]
-	name = "Github"
-	icon = "fa fa-2x fa-github"
-	weight = 1
-	url = "https://github.com/jonasskanoy/"
+name = "Github"
+icon = "fa fa-2x fa-github"
+weight = 1
+url = "https://github.com/jonasskanoy/"
 
 [[params.social]]
-	name = "RSS"
-	icon = "fa fa-2x fa-rss"
-	weight = 2
-	url = "https://www.jonasskanoy.xyz/posts/index.xml"
-	rel = "alternate"
-	type = "application/rss+xml"
+name = "RSS"
+icon = "fa fa-2x fa-rss"
+weight = 2
+url = "https://www.jonasskanoy.xyz/posts/index.xml"
+rel = "alternate"
+type = "application/rss+xml"
 
 [languages.en]
-	languageName = ":us:"
+languageName = ":us:"
 
 [[languages.en.menu.main]]
-	name = "About"
-	weight = 1
-	url = "about/"
+name = "About"
+weight = 1
+url = "about/"
 
 [[languages.en.menu.main]]
-	name = "Blog"
-	weight = 2
-	url = "posts/"
+name = "Blog"
+weight = 2
+url = "posts/"
 
 [[languages.en.menu.main]]
-	name = "Contact me"
-	weight = 3
-	url = "contact/"
+name = "Contact me"
+weight = 3
+url = "contact/"
