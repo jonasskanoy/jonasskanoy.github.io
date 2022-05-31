@@ -17,14 +17,13 @@ enableEmoji = true
 [params]
 author = "Jonas Berg Skånøy"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
-description = "Jonas Berg Skånøy's personal website"
 keywords = "blog,developer,personal"
 info = ["Philosophy", "Tech"]
 avatarURL = "images/profile.jpg"
 #gravatar = "john.doe@example.com"
 
-favicon_32 = "/img/favicon-32x32.png"
-favicon_16 = "/img/favicon-16x16.png"
+favicon_32 = "/images/profile.jpg"
+favicon_16 = "/images/profile.jpg"
 
 
 dateFormat = "January 2, 2006"
