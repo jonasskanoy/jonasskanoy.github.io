@@ -57,7 +57,7 @@ url = "https://github.com/jonasskanoy/"
 name = "RSS"
 icon = "fa fa-2x fa-rss"
 weight = 2
-url = "https://myhugosite.com/posts/index.xml/"
+url = "https://myhugosite.com/posts/index.xml"
 rel = "alternate"
 type = "application/rss+xml"
 
