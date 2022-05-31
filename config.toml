@@ -69,7 +69,7 @@ enableEmoji = true
 	name = "RSS"
 	icon = "fa fa-2x fa-rss"
 	weight = 6
-	url = "https://www.jonasskanoy.xyz/posts/index.rss"
+	url = "https://www.jonasskanoy.xyz/rss.xml"
 	rel = "alternate"
 	type = "application/rss+xml"
 
