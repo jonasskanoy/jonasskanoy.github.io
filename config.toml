@@ -4,11 +4,14 @@ theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
 
+
 paginate = 20
+
 
 pygmentsStyle = "bw"
 pygmentsCodeFences = false
 pygmentsCodeFencesGuessSyntax = false
+enableEmoji = true
 
 # Enable Disqus comments
 # disqusShortname = "yourdiscussshortname"
@@ -29,12 +32,11 @@ dateFormat = "2/11/2006"
 since = 2022
 
 enableTwemoji = true
-enableEmoji = true
 
 rtl = false
 
 colorScheme = "auto"
-hideColorSchemeToggle = true
+hideColorSchemeToggle = false
 	
 # Custom CSS
 customCSS = []
