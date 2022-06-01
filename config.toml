@@ -29,6 +29,7 @@ dateFormat = "2/11/2006"
 since = 2022
 
 enableTwemoji = true
+enableEmoji = true
 
 rtl = false
 
