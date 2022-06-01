@@ -33,13 +33,13 @@ colorScheme = "auto"
 hideColorSchemeToggle = true
 	
 # Add extra CSS files to the website. ["css/extra-style.css"]
-customCSS = []
+# customCSS = []
 
 # Add extra SCSS files to the website. ["scss/extra-style.scss"]
-customSCSS = []
+# customSCSS = []
 	
 # Add extra JS files to the website. ["js/extra-script.js"]
-customJS = []
+# customJS = []
 
 # Adds support for Twemoji
 enableTwemoji = true
