@@ -36,7 +36,7 @@ enableTwemoji = true
 rtl = false
 
 colorScheme = "auto"
-hideColorSchemeToggle = false
+hideColorSchemeToggle = true
 	
 # Custom CSS
 customCSS = []
