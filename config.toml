@@ -4,48 +4,45 @@ theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
 
-
 paginate = 20
-
 
 pygmentsStyle = "bw"
 pygmentsCodeFences = false
 pygmentsCodeFencesGuessSyntax = false
-enableEmoji = true
 
 # Enable Disqus comments
 # disqusShortname = "yourdiscussshortname"
 
 [params]
 author = "Jonas B. Skånøy"
-description = "Jonas Skånøy's personal website"
-keywords = "blog,developer,personal"
 info = ["Philosophy", "Tech"]
+description = "Jonas Skånøy's personal website"
+keywords = "blog,personal"
 avatarURL = "images/profile.jpg"
 #gravatar = "john.doe@example.com"
 	
 favicon_32 = "images/profile.jpg"
 favicon_16 = "images/profile.jpg"
 
-
-dateFormat = "2/11/2006"
 since = 2022
 
-enableTwemoji = true
-
+# Enable the right to left mode.
 rtl = false
 
 colorScheme = "auto"
-hideColorSchemeToggle = false
+hideColorSchemeToggle = true
 	
-# Custom CSS
+# Add extra CSS files to the website. ["css/extra-style.css"]
 customCSS = []
 
-# Custom SCSS, file path is relative to Hugo's asset folder (default: {your project root}/assets)
+# Add extra SCSS files to the website. ["scss/extra-style.scss"]
 customSCSS = []
 	
-# Custom JS
+# Add extra JS files to the website. ["js/extra-script.js"]
 customJS = []
+
+# Adds support for Twemoji
+enableTwemoji = true
 
 [taxonomies]
 category = "categories"
@@ -53,6 +50,7 @@ series = "series"
 tag = "tags"
 author = "authors"
 
+# Social links
 [[params.social]]
 name = "Github"
 icon = "fa fa-2x fa-github"
@@ -67,20 +65,18 @@ url = "https://www.jonasskanoy.xyz/posts/index.xml"
 rel = "alternate"
 type = "application/rss+xml"
 
-[languages.en]
-languageName = ":us:"
-
-[[languages.en.menu.main]]
+# Menu links
+[[menu.main]]
 name = "About"
 weight = 1
 url = "about/"
 
-[[languages.en.menu.main]]
+[[menu.main]]
 name = "Blog"
 weight = 2
 url = "posts/"
 
-[[languages.en.menu.main]]
+[[menu.main]]
 name = "Contact me"
 weight = 3
 url = "contact/"
