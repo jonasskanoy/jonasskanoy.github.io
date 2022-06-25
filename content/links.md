@@ -12,4 +12,4 @@ Here are some links to a couple of sites I regularly visit and use.
 2. [Martin Chrzanowski](https://m-chrzan.xyz/index.html)
 3. [Low ← Tech Magazine](https://solar.lowtechmagazine.com/)
 4. [Based.cooking](https://based.cooking/)
-5. [Daniel Boviac](https://www.youtube.com/user/PhiloofAlexandria)
+5. [Daniel Bonevac](https://www.youtube.com/user/PhiloofAlexandria)
