@@ -42,7 +42,7 @@ hideColorSchemeToggle = true
 customCSS = []
 
 # Custom SCSS, file path is relative to Hugo's asset folder (default: {your project root}/assets)
-customSCSS = []
+customSCSS = [/jonasskanoy.github.io/themes/hugo-coder/assets/anonymous.scss]
 	
 # Custom JS
 customJS = []
