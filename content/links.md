@@ -6,7 +6,7 @@ author = "Jonas B. Skånøy"
 +++
 
 ## Links
-Here are some linkt to a couple of sites I regularly visit and use.
+Here are some links to a couple of sites I regularly visit and use.
 
 1. [Luke Smith](https://lukesmith.xyz/)
 2. [Martin Chrzanowski](https://m-chrzan.xyz/index.html)
