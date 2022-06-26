@@ -1,7 +1,6 @@
 +++
-title = "Donate"
-slug = "donate"
+title = ""
+aliases = ["donate"]
 +++
 
-## Content coming soon...
-
+## Content coming soon ...
