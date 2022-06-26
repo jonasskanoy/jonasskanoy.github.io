@@ -53,11 +53,11 @@ series = "series"
 tag = "tags"
 author = "authors"
 
-[[params.social]]
-name = "Github"
-icon = "fa fa-2x fa-github"
-weight = 1
-url = "https://github.com/jonasskanoy/"
+#[[params.social]]
+#name = "Github"
+#icon = "fa fa-2x fa-github"
+#weight = 1
+#url = "https://github.com/jonasskanoy/"
 
 [[params.social]]
 name = "RSS"
@@ -86,6 +86,11 @@ weight = 3
 url = "links/"
 
 [[languages.en.menu.main]]
-name = "Contact me"
+name = "Donate"
 weight = 4
+url = "contact/"
+
+[[languages.en.menu.main]]
+name = "Contact me"
+weight = 5
 url = "contact/"
