@@ -1,6 +1,8 @@
 +++
 title = ""
+description = "Hugo, the world's fastest framework for building websites"
 aliases = ["donate"]
+author = "Jonas B. Skånøy"
 +++
 
-## Content coming soon ...
+## Conent coming
