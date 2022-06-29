@@ -1,8 +1,7 @@
 +++
-title = ""
-description = "Hugo, the world's fastest framework for building websites"
-aliases = ["donate"]
-author = "Jonas B. Skånøy"
+title = "Donation"
+slug = "Donate"
 +++
 
 ## Conent coming
+Hello, hello, hello
