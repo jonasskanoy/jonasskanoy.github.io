@@ -1,5 +1,5 @@
 +++
-title = "Donation"
+title = ""
 slug = "Donate"
 +++
 
