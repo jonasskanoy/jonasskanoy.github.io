@@ -5,6 +5,8 @@ aliases = ["links"]
 author = "Jonas B. Skånøy"
 +++
 
+[![This is my image](https://lukesmith.xyz/pix/buttons/basedcooking.gif)](https://based.cooking/)
+
 ## Links
 Here are some links to a couple of sites I regularly visit and use.
 
@@ -13,4 +15,3 @@ Here are some links to a couple of sites I regularly visit and use.
 | [Low ← Tech Magazine](https://solar.lowtechmagazine.com/) 	|    [Daniel Bonevac](https://www.youtube.com/user/PhiloofAlexandria)   	|
 |          [based.cooking](https://based.cooking/)          	| [Bargain Bin Philosophy](https://bargainbinphilosophy.xyz/index.html) 	|
 
-[![This is my image](https://lukesmith.xyz/pix/buttons/basedcooking.gif)](https://based.cooking/)
