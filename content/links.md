@@ -13,4 +13,4 @@ Here are some links to a couple of sites I regularly visit and use.
 | [Low ← Tech Magazine](https://solar.lowtechmagazine.com/) 	|    [Daniel Bonevac](https://www.youtube.com/user/PhiloofAlexandria)   	|
 |          [based.cooking](https://based.cooking/)          	| [Bargain Bin Philosophy](https://bargainbinphilosophy.xyz/index.html) 	|
 
-[![This is my image](static/gifs/basedcooking.gif)]({{< relref "https://based.cooking/" >}})
+[![This is my image](gifs/basedcooking.gif)]({{< relref "https://based.cooking/" >}})
