@@ -71,26 +71,46 @@ type = "application/rss+xml"
 languageName = ":us:"
 
 [[languages.en.menu.main]]
+<<<<<<< HEAD
 name = "About👨"
+=======
+name = "About 👨"
+>>>>>>> 1fa73564aef89497869eb7b370dc0a417dbffcaa
 weight = 1
 url = "about/"
 
 [[languages.en.menu.main]]
+<<<<<<< HEAD
 name = "Blog📜"
+=======
+name = "Blog 📖"
+>>>>>>> 1fa73564aef89497869eb7b370dc0a417dbffcaa
 weight = 2
 url = "posts/"
 
 [[languages.en.menu.main]]
+<<<<<<< HEAD
 name = "Links🚀"
+=======
+name = "Links 🌐"
+>>>>>>> 1fa73564aef89497869eb7b370dc0a417dbffcaa
 weight = 3
 url = "links/"
 
 [[languages.en.menu.main]]
+<<<<<<< HEAD
 name = "Donate💸"
+=======
+name = "Donate 💸"
+>>>>>>> 1fa73564aef89497869eb7b370dc0a417dbffcaa
 weight = 4
 url = "donate/"
 
 [[languages.en.menu.main]]
+<<<<<<< HEAD
 name = "Contact me📞"
+=======
+name = "Contact me 📞"
+>>>>>>> 1fa73564aef89497869eb7b370dc0a417dbffcaa
 weight = 5
 url = "contact/"
