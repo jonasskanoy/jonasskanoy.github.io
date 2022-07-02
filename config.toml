@@ -71,26 +71,26 @@ type = "application/rss+xml"
 languageName = ":us:"
 
 [[languages.en.menu.main]]
-name = "About"
+name = "About👨"
 weight = 1
 url = "about/"
 
 [[languages.en.menu.main]]
-name = "Blog"
+name = "Blog📜"
 weight = 2
 url = "posts/"
 
 [[languages.en.menu.main]]
-name = "Links"
+name = "Links🚀"
 weight = 3
 url = "links/"
 
 [[languages.en.menu.main]]
-name = "Donate"
+name = "Donate💸"
 weight = 4
 url = "donate/"
 
 [[languages.en.menu.main]]
-name = "Contact me"
+name = "Contact me📞"
 weight = 5
 url = "contact/"
