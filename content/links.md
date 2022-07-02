@@ -8,10 +8,7 @@ author = "Jonas B. Skånøy"
 ## Links
 Here are some links to a couple of sites I regularly visit and use.
 
-1. 
-2. 
-3. 
-4. 
-5. 
-|  [[Luke Smith](https://lukesmith.xyz/) 	|  [Martin Chrzanowski](https://m-chrzan.xyz/index.html) 	|  [Low ← Tech Magazine](https://solar.lowtechmagazine.com/) 	|
-|  [Based.cooking](https://based.cooking/) 	|   [Daniel Bonevac](https://www.youtube.com/user/PhiloofAlexandria)	|   [based.cooking](https://based.cooking/)	|
+|            [Luke Smith](https://lukesmith.xyz/)           	| [Martin Chrzanowski](https://m-chrzan.xyz/index.html)                 	|
+|:---------------------------------------------------------:	|-----------------------------------------------------------------------	|
+| [Low ← Tech Magazine](https://solar.lowtechmagazine.com/) 	| [Daniel Bonevac](https://www.youtube.com/user/PhiloofAlexandria)      	|
+|          [based.cooking](https://based.cooking/)          	| [Bargain Bin Philosophy](https://bargainbinphilosophy.xyz/index.html) 	|
