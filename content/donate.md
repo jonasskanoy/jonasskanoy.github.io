@@ -10,4 +10,4 @@ slug = "Donate"
 |             Vipps            	|                                                     Info is coming.                                                     	|
 |            Monero            	|                                                     Info is coming.                                                     	|
 
-[![Paypal](https://www.jonasskanoy.xyz/gifs/paypal.gif)]([https://based.cooking/](https://www.paypal.com/donate/?hosted_button_id=UK7FQGWMRVH9W)
+[![Paypal](https://www.jonasskanoy.xyz/gifs/paypal.gif)](https://www.paypal.com/donate/?hosted_button_id=UK7FQGWMRVH9W)
