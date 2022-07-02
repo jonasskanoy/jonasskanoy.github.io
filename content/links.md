@@ -8,8 +8,10 @@ author = "Jonas B. Skånøy"
 ## Links
 Here are some links to a couple of sites I regularly visit and use.
 
-1. [Luke Smith](https://lukesmith.xyz/)
-2. [Martin Chrzanowski](https://m-chrzan.xyz/index.html)
-3. [Low ← Tech Magazine](https://solar.lowtechmagazine.com/)
-4. [Based.cooking](https://based.cooking/)
-5. [Daniel Bonevac](https://www.youtube.com/user/PhiloofAlexandria)
+1. 
+2. 
+3. 
+4. 
+5. 
+|  [[Luke Smith](https://lukesmith.xyz/) 	|  [Martin Chrzanowski](https://m-chrzan.xyz/index.html) 	|  [Low ← Tech Magazine](https://solar.lowtechmagazine.com/) 	|
+|  [Based.cooking](https://based.cooking/) 	|   [Daniel Bonevac](https://www.youtube.com/user/PhiloofAlexandria)	|   [based.cooking](https://based.cooking/)	|
