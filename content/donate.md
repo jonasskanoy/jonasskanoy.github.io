@@ -3,9 +3,7 @@ title = ""
 slug = "Donate"
 +++
 
-Conent coming...
-
-| Syntax      | Description | Test Text     |
-| :---        |    :----:   |          ---: |
-| Header      | Title       | Here's this   |
-| Paragraph   | Text        | And more      |
+## These are the type of donation I'll eventually accept:
+*Paypal.
+*Monero.
+*Vipps.
