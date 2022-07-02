@@ -5,7 +5,7 @@ aliases = ["links"]
 author = "Jonas B. Skånøy"
 +++
 
-[![This is my image](https://lukesmith.xyz/pix/buttons/basedcooking.gif)](https://based.cooking/)
+[![This is my image](https://www.jonasskanoy.xyz/gifs/basedcooking.gif)](https://based.cooking/)
 
 ## Links
 Here are some links to a couple of sites I regularly visit and use.
