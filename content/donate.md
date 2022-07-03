@@ -9,7 +9,7 @@ Donating is totally optional, and does isn't necessary for my well-being. But if
 
 | **Accepted payment methods** 	|                                                    **How to donate**                                                    	|
 |:----------------------------:	|:-----------------------------------------------------------------------------------------------------------------------:	|
-|            Paypal            	|  [![Paypal](https://www.jonasskanoy.xyz/gifs/paypal.gif)](https://www.paypal.com/donate/?hosted_button_id=UK7FQGWMRVH9W) 	|
+|            Paypal            	|  [![Paypal](https://www.jonasskanoy.xyz/gifs/paypal.gif)](https://www.paypal.com/donate/?hosted_button_id=UK7FQGWMRVH9W)   	|
 |             Vipps            	|                                                     Info is coming.                                                     	|
 |            Monero            	|                                                     Info is coming.                                                     	|
 
