@@ -1,10 +1,11 @@
 +++
 author = "Jonas Skånøy"
 title = "Welcome to the blog!"
-date = "03-07-2022"
-description = "This is my very first blog post, enjoy!"
-tags = ["blog", "intro"]
-+++
+date = "2022-06-04"
+description = "My very first blog post, enjoy!"
+tags = [ "blog", "intro",]
+
+
 
 So, it's about time for me to start blogging! I've been putting off the idea for quite some time now (Just wanted everything else on the site to be in order first), but finally I am doing it.
 
