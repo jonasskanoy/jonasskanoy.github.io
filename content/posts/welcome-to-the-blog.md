@@ -1,7 +1,7 @@
 +++
 author = "Jonas Skånøy"
 title = "Welcome to the blog"
-date = "03-2022"
+date = "03-07-2022"
 description = "Welcome, finally."
 tags = ["blog", "intro"]
 +++
