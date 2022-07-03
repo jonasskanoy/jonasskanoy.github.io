@@ -4,8 +4,8 @@ description = "Hugo, the world's fastest framework for building websites"
 aliases = ["donations"]
 +++
 
-# Donations
-Donating is totally optional, and does isn't necessary for my well-being. But if you feel like doing so, I've made some options for both the normies, and for the more tech savy people.
+# Donation info
+Donations are by all means optional, they are not necessary for my well-being. But if you feel like doing so anyways, I've made some options for both the normies, and for those who are a bit more tech-savvy.
 
 | **Accepted payment methods** 	|                                                    **How to donate**                                                    	|
 |:----------------------------:	|:-----------------------------------------------------------------------------------------------------------------------:	|
