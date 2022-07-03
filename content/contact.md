@@ -3,7 +3,6 @@ title = ""
 description = "Hugo, the world's fastest framework for building websites"
 aliases = ["contact"]
 +++
-
 ## :phone: Digital Contact Information
 I’m not on Telegram, Twitter or Reddit. So email and github will have to do.
 * Email: jonas.skanoy@e.email
