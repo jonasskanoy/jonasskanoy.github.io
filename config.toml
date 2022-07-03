@@ -35,7 +35,7 @@ enableTwemoji = true
 
 rtl = false
 
-colorScheme = "blue"
+colorScheme = "auto"
 hideColorSchemeToggle = false
 	
 # Custom CSS
