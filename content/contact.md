@@ -7,7 +7,7 @@ aliases = ["contact"]
 ## :phone: Digital Contact Information
 I’m not on Telegram, Twitter or Reddit. So email and github will have to do.
 * Email: jonas.skanoy@e.email
-* Github: [jonasskanoy](https://github.com/jonasskanoy)[newtab]
+* Github: [jonasskanoy](https://github.com/jonasskanoy){:target="_blank"}
 
 
 ## :closed_book: Rules
