@@ -1,8 +1,7 @@
 +++
 title = ""
 description = "Hugo, the world's fastest framework for building websites"
-aliases = ["about-us"]
-author = "Jonas B. Skånøy"
+aliases = ["about"]
 +++
 
 Hi! :wave: Welcome to my website, powered by [*Hugo*](https://www.gohugo.io), and written in *GO*. Massive shoutout to [Luiz F. A. de Prá](https://github.com/luizdepra) for making this amazing theme, called [*Coder*](https://github.com/luizdepra/hugo-coder).

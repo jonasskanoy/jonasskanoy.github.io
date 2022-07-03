@@ -1,6 +1,7 @@
 +++
 title = ""
-slug = "contact"
+description = "Hugo, the world's fastest framework for building websites"
+aliases = ["contact"]
 +++
 
 ## :phone: Digital Contact Information

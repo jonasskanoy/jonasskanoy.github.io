@@ -1,7 +1,7 @@
 +++
 title = ""
 description = "Hugo, the world's fastest framework for building websites"
-aliases = ["links"]
+aliases = [":qlinks"]
 author = "Jonas B. Skånøy"
 +++
 
