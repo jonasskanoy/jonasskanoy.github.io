@@ -4,9 +4,6 @@ description = "Hugo, the world's fastest framework for building websites"
 aliases = [":qlinks"]
 author = "Jonas B. Skånøy"
 +++
-
-
-
 ## Links
 Here are some links to a couple of sites I frequent regularly.
 
