@@ -35,7 +35,7 @@ enableTwemoji = true
 
 rtl = false
 
-colorScheme = "auto"
+colorScheme = "blue"
 hideColorSchemeToggle = true
 	
 # Custom CSS
@@ -52,12 +52,6 @@ category = "categories"
 series = "series"
 tag = "tags"
 author = "authors"
-
-#[[params.social]]
-#name = "Donation"
-#icon = "fa fa-money"
-#weight = 1
-#url = "https://github.com/jonasskanoy/donate"
 
 [[params.social]]
 name = "RSS"
