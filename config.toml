@@ -39,7 +39,7 @@ colorScheme = "auto"
 hideColorSchemeToggle = false
 	
 # Custom CSS
-customCSS = []
+customCSS = [https://www.jonasskanoy.xyz/css/custom.css]
 
 # Custom SCSS, file path is relative to Hugo's asset folder (default: {your project root}/assets)
 customSCSS = []
