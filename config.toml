@@ -39,7 +39,7 @@ colorScheme = "auto"
 hideColorSchemeToggle = false
 	
 # Custom CSS
-customCSS = []
+customCSS = ["css/custom.css"]
 
 # Custom SCSS, file path is relative to Hugo's asset folder (default: {your project root}/assets)
 customSCSS = []
@@ -55,7 +55,7 @@ author = "authors"
 
 [[params.social]]
 name = "RSS"
-icon = "fa fa-2x fa-rss"
+icon = "fa fa-rss-square fa-2x"
 weight = 2
 url = "https://www.jonasskanoy.xyz/posts/index.xml"
 rel = "alternate"
