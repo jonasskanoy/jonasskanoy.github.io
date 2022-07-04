@@ -17,9 +17,3 @@ As of now, I can tease what I'll be working on with regards to the website, aswe
 4. Setting my own mail server, so I am able to receive mails with `gpg` keypair. It's never gonna be as good as anonymous messaging services, but end-to-end encryption is fine for my use of communication. (This is on the back burner).
 
 That's all for now, remember to subscribe to my RSS feed. You can access it through the main page on this website, or by clicking [here](https://www.jonasskanoy.xyz/posts/index.xml).
-
-<div style="text-align: center;">
-{{% center %}}
-![Snorlax waving goodbye](https://www.jonasskanoy.xyz/gifs/snorlax.gif)
-{{% /center %}}
-</div>
