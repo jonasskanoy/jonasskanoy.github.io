@@ -18,4 +18,8 @@ As of now, I can tease what I'll be working on with regards to the website, aswe
 
 That's all for now, remember to subscribe to my RSS feed. You can access it through the main page on this website, or by clicking [here](https://www.jonasskanoy.xyz/posts/index.xml).
 
-![Snorlax waving goodbye](https://www.jonasskanoy.xyz/gifs/snorlax.gif#center)
+<div style="text-align: center;">
+{{% center %}}
+![Snorlax waving goodbye](https://www.jonasskanoy.xyz/gifs/snorlax.gif)
+{{% /center %}}
+</div>
