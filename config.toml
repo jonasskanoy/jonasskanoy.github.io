@@ -16,11 +16,6 @@ enableEmoji = true
 # Enable Disqus comments
 # disqusShortname = "yourdiscussshortname"
 
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
-
 [params]
 author = "Jonas B. Skånøy"
 description = "Jonas Skånøy's personal website"
