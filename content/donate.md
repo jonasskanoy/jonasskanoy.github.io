@@ -12,4 +12,5 @@ Donations are by all means optional – they are not necessary for my well-being
 |            Paypal            	| [![Paypal](https://www.jonasskanoy.xyz/gifs/paypal.gif)](https://www.paypal.com/donate/?hosted_button_id=UK7FQGWMRVH9W) 	| ![Paypal](https://www.jonasskanoy.xyz/QR/QR-paypal.png) 	|
 |             Vipps            	|                                                     Info is coming.                                                     	|                                                           	|
 |            Monero            	|                                                     Info is coming.                                                     	| 
+
 {{ /table }}
