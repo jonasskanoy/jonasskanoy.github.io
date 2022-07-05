@@ -9,8 +9,9 @@ figure.centered {
     text-align: center;
 }
 
-figure.right-aligned > table {
-  float: right;
-  margin-left: auto;
+
+table {
+  border-collapse: collapse;
   margin-right: auto;
+  margin-left: auto;
 }
