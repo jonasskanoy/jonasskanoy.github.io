@@ -6,7 +6,10 @@ aliases = ["donations"]
 # Donation info
 Donations are by all means optional – they are not necessary for my well-being. However, if you feel like donating anyway, I’ve made some donations options – both for the normies and the tech-savvy.
 
-<div align="center">
+<div style="margin-left: auto;
+            margin-right: auto;
+            width: 30%">
+
 | **Accepted payment methods** 	|                                                    **How to donate**                                                    	|                        **QR-codes**                       	|
 |:----------------------------:	|:-----------------------------------------------------------------------------------------------------------------------:	|:---------------------------------------------------------:	|
 |            Paypal            	| [![Paypal](https://www.jonasskanoy.xyz/gifs/paypal.gif)](https://www.paypal.com/donate/?hosted_button_id=UK7FQGWMRVH9W) 	| ![Paypal](https://www.jonasskanoy.xyz/QR/QR-paypal.png) 	|
