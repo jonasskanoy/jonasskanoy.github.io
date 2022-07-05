@@ -9,7 +9,9 @@ figure.centered {
     text-align: center;
 }
 
-
+code {
+    font-size: 10
+}
 table {
   border-collapse: collapse;
   margin-right: auto;
