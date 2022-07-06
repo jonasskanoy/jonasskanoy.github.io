@@ -12,4 +12,5 @@ Donations are by all means optional – they are not necessary for my well-being
 |             Vipps            	|                                                     Info is coming.                                                     	|                     Info is coming.                     	|
 |            Monero            	|                        	| ![Monero](https://www.jonasskanoy.xyz/QR/QR-monero.png) 	|
 
-`44ahayqrGsS2m9fcs3eKjmePd7kdeePAC3YdCR4xqfLihLWJLHA2gZW4owwhdjUQKyNgwr7VQNFJLcX8v28XuFeJHfsGtXy`
+`44ahayqrGsS2m9fcs3eKjmePd7kdeePAC3YdCR4xqfLihLWJ
+LHA2gZW4owwhdjUQKyNgwr7VQNFJLcX8v28XuFeJHfsGtXy`
