@@ -1,18 +1,5 @@
-/* abhaya-libre-regular - latin */
-@font-face {
-  font-family: 'Abhaya Libre';
-  font-style: normal;
-  font-weight: 400;
-  src: local(''),
-       url('https://jonasskanoy.xyz/font/abhaya-libre-v13-latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-       url('https://jonasskanoy.xyz/font/abhaya-libre-v13-latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
-}
-
-figure.right-aligned > img {
-  float: right;
-  width: 50%;
-  height: 50%;
-  margin: 0 0 2rem 2rem;
+* {
+  font-family: abhaya-libre;
 }
 
 figure.centered {
