@@ -13,3 +13,5 @@ Donations are by all means optional – they are not necessary for my well-being
 |            ![icons](https://jonasskanoy.xyz/icons/monero.svg) Monero       	|                       	| ![Monero](https://www.jonasskanoy.xyz/QR/QR-monero.png) 	|
 
 <sup><sub>`44ahayqrGsS2m9fcs3eKjmePd7kdeePAC3YdCR4xqfLihLWJLHA2gZW4owwhdjUQKyNgwr7VQNFJLcX8v28XuFeJHfsGtXy`</sub></sup>
+
+![Paypal](QR/QR-paypal.png)
