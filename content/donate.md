@@ -14,4 +14,4 @@ Donations are by all means optional – they are not necessary for my well-being
 
 <sup><sub>`44ahayqrGsS2m9fcs3eKjmePd7kdeePAC3YdCR4xqfLihLWJLHA2gZW4owwhdjUQKyNgwr7VQNFJLcX8v28XuFeJHfsGtXy`</sub></sup>
 
-[![Paypal](https://jonasskanoy.xyz/QR/QR-paypal.png)](https://jonasskanoy.xyz/icons/vipps.svg)
+[![Paypal](https://jonasskanoy.xyz/QR/QR-paypal.png)](https://jonasskanoy.xyz/QR/QR-paypal.png)
