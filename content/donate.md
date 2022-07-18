@@ -8,9 +8,9 @@ Donations are by all means optional – they are not necessary for my well-being
 
 | **Accepted payment methods** 	|                                                    **How to donate**                                                    	|                       **QR-codes**                      	|
 |:----------------------------:	|:-----------------------------------------------------------------------------------------------------------------------:	|:-------------------------------------------------------:	|
-|           ![icons](https://jonasskanoy.xyz/icons/paypal.svg) Paypal            	| [![Paypal](https://jonasskanoy.xyz/gifs/paypal.gif)](https://paypal.com/donate/?hosted_button_id=UK7FQGWMRVH9W) 	| [![Paypal](https://jonasskanoy.xyz/QR/QR-paypal.png)](https://jonasskanoy.xyz/QR/QR-paypal.png) 	|
-|             ![icons](https://jonasskanoy.xyz/icons/vipps.svg) Vipps            	|                        Donations through Vipps can be sent in through the QR-code on the right →                        	|  [![Vipps](https://jonasskanoy.xyz/QR/QR-vipps.png)](https://jonasskanoy.xyz/QR/QR-vipps.png)  	|
-|            ![icons](https://jonasskanoy.xyz/icons/monero.svg) Monero       	|                       	| [![Monero](/static/QR/QR-monero.png)](https://jonasskanoy.xyz/QR/QR-monero.png) 	|
+|           ![icons](/static/icons/paypal.svg) Paypal            	| [![Paypal](https://jonasskanoy.xyz/gifs/paypal.gif)](https://paypal.com/donate/?hosted_button_id=UK7FQGWMRVH9W) 	| [![Paypal](/static/QR/QR-paypal.png)](/static/QR/QR-paypal.png) 	|
+|             ![icons](/static/icons/vipps.svg) Vipps            	|                        Donations through Vipps can be sent in through the QR-code on the right →                        	|  [![Vipps](/static/QR/QR-vipps.png)](/static/QR/QR-vipps.png)  	|
+|            ![icons](/static/icons/monero.svg) Monero       	|                       	| [![Monero](/static/QR/QR-monero.png)](https://jonasskanoy.xyz/QR/QR-monero.png) 	|
 
 <sup><sub>`44ahayqrGsS2m9fcs3eKjmePd7kdeePAC3YdCR4xqfLihLWJLHA2gZW4owwhdjUQKyNgwr7VQNFJLcX8v28XuFeJHfsGtXy`</sub></sup>
 
