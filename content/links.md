@@ -12,3 +12,7 @@ Here are some links to a couple of sites I frequent regularly.
 |        [![Wiby](https://www.jonasskanoy.xyz/gifs/wiby.gif)](https://wiby.me/)          	| [![based.cooking](https://www.jonasskanoy.xyz/gifs/basedcooking.gif)](https://based.cooking/)   	|
 |                        [Arjun Yadav](https://arjunyadav.xyz/)                          	|             [Bargain Bin Philosophy](https://bargainbinphilosophy.xyz/index.html)               	|
 |               [Low ← Tech Magazine](https://solar.lowtechmagazine.com/)                	|                [Daniel Bonevac](https://www.youtube.com/user/PhiloofAlexandria)                 	|
+
+If you want to link to my website, you can download this 88x31 button:
+
+[![Jonas Skanoy](https://jonasskanoy.xyz/gifs/jonasskanoy.gif)](https://jonasskanoy.xyz)
