@@ -19,13 +19,14 @@ table {
   margin-left: auto;
 }
 
-img[alt=icons] { width: 15px; }
+img[alt=icons]{ 
+ width: 15px; 
+}
 
-img[src$='#center']
-{
-    display: block;
-    margin: 0.7rem auto; /* you can replace the vertical '0.7rem' by
-                            whatever floats your boat, but keep the
-                            horizontal 'auto' for this to work */
+img[src$='#center']{
+ display: block;
+ margin: 0.7rem auto; /* you can replace the vertical '0.7rem' by
+                         whatever floats your boat, but keep the
+                         horizontal 'auto' for this to work */
     /* whatever else styles you fancy here */
 }
