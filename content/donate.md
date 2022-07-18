@@ -8,8 +8,8 @@ Donations are by all means optional – they are not necessary for my well-being
 
 | **Accepted payment methods** 	|                                                    **How to donate**                                                    	|                       **QR-codes**                      	|
 |:----------------------------:	|:-----------------------------------------------------------------------------------------------------------------------:	|:-------------------------------------------------------:	|
-|            Paypal ![icons](https://jonasskanoy.xyz/icons/paypal.svg)            	| [![Paypal](https://www.jonasskanoy.xyz/gifs/paypal.gif)](https://www.paypal.com/donate/?hosted_button_id=UK7FQGWMRVH9W) 	| ![Paypal](https://www.jonasskanoy.xyz/QR/QR-paypal.png) 	|
-|             Vipps ![icons](https://jonasskanoy.xyz/icons/vipps.svg)            	|                        Donations through Vipps can be sent in through the QR-code on the right →                        	|  ![Vipps](https://www.jonasskanoy.xyz/QR/QR-vipps.png)  	|
-|            Monero ![icons](https://jonasskanoy.xyz/icons/monero.svg)            	|                       	| ![Monero](https://www.jonasskanoy.xyz/QR/QR-monero.png) 	|
+|           ![icons](https://jonasskanoy.xyz/icons/paypal.svg) Paypal            	| [![Paypal](https://www.jonasskanoy.xyz/gifs/paypal.gif)](https://www.paypal.com/donate/?hosted_button_id=UK7FQGWMRVH9W) 	| ![Paypal](https://www.jonasskanoy.xyz/QR/QR-paypal.png) 	|
+|             ![icons](https://jonasskanoy.xyz/icons/vipps.svg) Vipps            	|                        Donations through Vipps can be sent in through the QR-code on the right →                        	|  ![Vipps](https://www.jonasskanoy.xyz/QR/QR-vipps.png)  	|
+|            ![icons](https://jonasskanoy.xyz/icons/monero.svg) Monero       	|                       	| ![Monero](https://www.jonasskanoy.xyz/QR/QR-monero.png) 	|
 
 <sup><sub>`44ahayqrGsS2m9fcs3eKjmePd7kdeePAC3YdCR4xqfLihLWJLHA2gZW4owwhdjUQKyNgwr7VQNFJLcX8v28XuFeJHfsGtXy`</sub></sup>
