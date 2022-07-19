@@ -1,6 +1,6 @@
 // Fonts
-$font-family: abhaya-libre;
-$code-font-family: abhaya-libre;
+$font-family: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif;
+$code-font-family: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif;
 
 // Colors
 $bg-color: #fafafa !default;
