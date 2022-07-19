@@ -42,7 +42,7 @@ hideColorSchemeToggle = false
 customCSS = ["css/custom.css"]
 
 # Custom SCSS, file path is relative to Hugo's asset folder (default: {your project root}/assets)
-customSCSS = ["scss/_variables.scss"]
+customSCSS = []
 	
 # Custom JS
 customJS = []
