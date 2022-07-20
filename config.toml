@@ -56,7 +56,7 @@ author = "authors"
 [[params.social]]
 name = "RSS"
 icon = "fa fa-rss-square fa-2x"
-weight = 2
+weight = 1
 url = "https://www.jonasskanoy.xyz/posts/index.xml"
 rel = "alternate"
 type = "application/rss+xml"
