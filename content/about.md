@@ -12,5 +12,18 @@ If you're instrested, or I've applied for a job at your workplace, consider chec
 * Click [here](/CV/CV_Norsk.pdf) (Norwegian)
 * Click [here](/CV/CV_English.pdf) (English)
 
+## Links
+Here are some links to a couple of sites I frequent regularly.
+
+| [![Land Chad](https://www.jonasskanoy.xyz/gifs/landchad.gif)](https://landchad.net/) 	|  [![Martin Chrzanowski](https://www.jonasskanoy.xyz/gifs/martin.gif)](https://m-chrzan.xyz/)  	|
+|:------------------------------------------------------------------------------------:	|:---------------------------------------------------------------------------------------------:	|
+|        [![Wiby](https://www.jonasskanoy.xyz/gifs/wiby.gif)](https://wiby.me/)          	| [![based.cooking](https://www.jonasskanoy.xyz/gifs/basedcooking.gif)](https://based.cooking/)   	|
+|                        [Arjun Yadav](https://arjunyadav.xyz/)                          	|             [Bargain Bin Philosophy](https://bargainbinphilosophy.xyz/index.html)               	|
+|               [Low ← Tech Magazine](https://solar.lowtechmagazine.com/)                	|                [Daniel Bonevac](https://www.youtube.com/user/PhiloofAlexandria)                 	|
+
+If you want to link to my website, you can download this 88x31 button:
+
+[![Jonas Skanoy](https://jonasskanoy.xyz/gifs/jonasskanoy.gif#center)](https://jonasskanoy.xyz)
+
 ## Tags for blog
 coming soon...
