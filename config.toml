@@ -61,30 +61,32 @@ url = "https://www.jonasskanoy.xyz/posts/index.xml"
 rel = "alternate"
 type = "application/rss+xml"
 
-[languages.en]
-languageName = ":us:"
-
-[[languages.en.menu.main]]
+[[menu.main]]
 name = "About 👨"
 weight = 1
 url = "about/"
 
-[[languages.en.menu.main]]
-name = "Blog 📜"
+[[menu.main]]
+name = "Personal library 📚"
 weight = 2
+url = "library/"
+
+[[menu.main]]
+name = "Blog 📜"
+weight = 3
 url = "posts/"
 
-[[languages.en.menu.main]]
+[[menu.main]]
 name = "Links 🌐"
-weight = 3
+weight = 4
 url = "links/"
 
-[[languages.en.menu.main]]
+[[menu.main]]
 name = "Donate 💸"
-weight = 4
+weight = 5
 url = "donate/"
 
-[[languages.en.menu.main]]
+[[menu.main]]
 name = "Contact me 📞"
-weight = 5
+weight = 6
 url = "contact/"
