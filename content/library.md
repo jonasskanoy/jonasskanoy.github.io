@@ -37,7 +37,7 @@ The works I *have* read will be marked with a "*".
 - Zapffe, P. W. (1997). *Kulturelt nødverge*. Pax press.
 - Zapffe, P. W. (1998). *Spøk og alvor*. Pax press.
 
-## Novels (Not categorized type of novel...)
+## Novels (Not categorized by type of novel...)
 - Bjørnebo, J. (1994). *Jonas*. Pax press.*
 - Bulgakov, M. (1995). *The Master and Margarita*. The Norwegian Book Club.
 - Camus, A. (2015). *The Stranger*. Gyldendal press.*
