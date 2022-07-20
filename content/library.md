@@ -20,7 +20,7 @@ The works I *have* read will be marked with a "*".
 - Kant, I. (1995). *Critique of Judgment*. Pax press.
 - Kant, I. (2009). *Critique of Pure Reason*. Pax press.
 - Nietzsche, F. (2007). *Daybreak*. Spartacus.
-- Nietzsche, F. (2008). *Antichrist*. Spartacus.*
+- Nietzsche, F. (2008). *The Anti-Christ*. Spartacus.*
 - Nietzsche, F. (2008). *Twilight of the Idols*. Spartacus.*
 - Nietzsche, F. (2009). *Beyond Good and Evil*. Spartacus.*
 - Nietzsche, F. (2010). *The Gay Science*. Spartacus.
