@@ -11,13 +11,14 @@ This is a sorted list of the books I currently own. It's categorized according t
 The works I *have* read will be marked with a "*".
 
 ## Philosophy, Psychology, Logic and Aesthetics 
-- Aristotle. (2010). *On the Soul*. Vidarforlaget.
-- Aristotle. (2013). *Nicomachean Ethics*. Vidarforlaget.
+- Aristotle. (2010). *On the Soul*. Vidar press.
+- Aristotle. (2013). *Nicomachean Ethics*. Vidar press.
 - Aurelius, M. (2020). *Meditations: Thoughts to Myself*. Cappelen press.*
 - Freud, S. (1997). *The Interpretation of Dreams*. Wordsworth press.
 - Heidegger, M. (2007). *Being and Time*. Pax press.
 - Hume, D. (2009). *A Treatise of Human Nature*. Oxford university press.
 - Kant, I. (1995). *Critique of Judgment*. Pax press.
+- Kant, I. (2009). *Critique of Pure Reason*. Pax press.
 - Nietzsche, F. (2007). *Daybreak*. Spartacus.
 - Nietzsche, F. (2008). *Antichrist*. Spartacus.*
 - Nietzsche, F. (2008). *Twilight of the Idols*. Spartacus.*
@@ -25,6 +26,7 @@ The works I *have* read will be marked with a "*".
 - Nietzsche, F. (2010). *The Gay Science*. Spartacus.
 - Nietzsche, F. (2011). *Thus Spoke Zarathustra*. Spartacus.
 - Nietzshce, F. (2010). *On the Genealogy of Morals*. Spartacus.*
+- Plato. (2001). *Collected works IV*. Vidar press.
 - Plato. (2013). *The Republic and Other Dialogues*. Barnes & Nobles Inc.
 - Sartre, J.-P. (1993). *Existentialism Is a Humanism*. Cappelen press.
 - Schopenhauer, A. (2005). *The World as Will and Representation*. Gyldendal press.
