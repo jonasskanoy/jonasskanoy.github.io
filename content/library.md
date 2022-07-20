@@ -25,7 +25,7 @@ The works I *have* read will be marked with a "*".
 - Nietzsche, F. (2009). *Beyond Good and Evil*. Spartacus.*
 - Nietzsche, F. (2010). *The Gay Science*. Spartacus.
 - Nietzsche, F. (2011). *Thus Spoke Zarathustra*. Spartacus.
-- Nietzshce, F. (2010). *On the Genealogy of Morals*. Spartacus.*
+- Nietzsche, F. (2010). *On the Genealogy of Morals*. Spartacus.*
 - Plato. (2001). *Collected works IV*. Vidar press. (I've only read the Phaedo dialogue from this work.)
 - Plato. (2013). *The Republic and Other Dialogues*. Barnes & Nobles Inc.
 - Sartre, J.-P. (1993). *Existentialism Is a Humanism*. Cappelen press.
