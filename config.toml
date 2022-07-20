@@ -72,9 +72,9 @@ weight = 2
 url = "posts/"
 
 [[menu.main]]
-name = "Links 🌐"
+name = "Tags 🏷️"
 weight = 3
-url = "links/"
+url = "tags/"
 
 [[menu.main]]
 name = "Library 📚"
