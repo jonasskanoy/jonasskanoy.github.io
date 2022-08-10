@@ -4,16 +4,16 @@ title = "Book review: Twilight of the Idols"
 date = "2022-08-10" 
 tags = ["📚 Book review"] 
 +++
+
 {{< figure src="/images/toti.jpg" alt="Twilight of the Idols" class="right-aligned" >}}
 
-# Book review: Twilight of the Idols.
 In this post, I’ll review Nietzsche’s famous work *Götzen-Dämmerung*, better known as “Twilight of the Idols”. I will try with the best of my abilities to bring something new to the table with my take on this book and pick out the aphorisms and passages that I found fruitful and thought-provoking. Additionally, I want to see how this work fits into Nietzsche’s canon. So, without further ado, let’s begin!
 
 ##Quick disclosure
 This work might be Nietzsche’s least nuanced work, and a lot of the stands he makes in it is a result of his declining health. This is the third to last book before his breakdown in 1889 and preceded both Antichrist and Ecce homo. With that in mind, his arguments should not be brushed of as the words of madman. Rather, it gives us some interesting perspectives into how Nietzsche’s thought evolved through his philosophical career.
 
 ## The title
-I want to have a look at the title before we go further. To get a better sense of what the title in English tells us, we must look at the composition of the German title. Other than being inspired by Richard Wagner’s opera *Götterdämmerung*, the title points to the demise of the ‘false gods’ – a person or a thing that is praised and devoted for their thoughts or actions. “Who are these false gods?” you might ask. To keep it short: every great philosopher from Western philosophy; from Socrates, all the way to Schopenhauer. We’ll come back to what specifically Nietzsche thought about these philosophers, and why he thought philosophy has inherited a so-called **decadent**[^1] tradition that spans all the way back to Greek antiquity.
+I want to have a look at the title before we go further. To get a better sense of what the title in English tells us, we must look at the composition of the German title. Other than being inspired by Richard Wagner’s opera *Götterdämmerung*, the title points to the demise of the ‘false gods’ – a person or a thing that is praised and devoted for their thoughts or actions. “Who are these false gods?” you might ask. To keep it short: every great philosopher from Western philosophy; from Socrates, all the way to Schopenhauer. We’ll come back to what specifically Nietzsche thought about these philosophers, and why he thought philosophy has inherited a so-called *decadent*[^1] tradition that spans all the way back to Greek antiquity.
 
 The subtitle is also worth taken into consideration because it says something about the method is going to be using, that being the metaphorical hammer. “How to Philosophize with a Hammer” shows how Nietzsche methodology is going to be radically different from the philosophers of the past. He’s going to wage war on all western philosophy leading up to his times and, and in Derridean terms, deconstruct[^2]  the arguments that the great western philosophers before him relied on to justify their metaphysical doctrines, and in the process, revealing the biases that went undenounced before him.  
 
@@ -47,6 +47,6 @@ The Dionysian / Apollonian distinction is for Nietzsche very important to unders
 ## Conclusion
 In conclusion, this book is one of my favorite works by Nietzsche, mainly because of the free-spirited thoughts he lays out in it. There is no filter here, and that’s Nietzsche at his finest, all irrational and full of contradictions! He also lays down insightful thoughts about the decadent nature of western philosophy, because of Plato and Socrates. Basically, it boils down to: dialectics are cringe, while commanding is based, and the change in Greek society is the result of the decadence laid forth in these ideas. Of course, I am not going to defend all stands he makes in this book. Some of them are just too radical or extreme (probably being a result of his declining health).
 
-[^1] Decadence is a French term, mainly meaning decay or degeneration. Nietzsche uses it in this work to illustrate the cultural decay of Greek society, because of philosophers like Plato and Socrates.er take apart it’s flaws and analyze the underlining symptoms which spring from it.
+[^1]: Decadence is a French term, mainly meaning decay or degeneration. Nietzsche uses it in this work to illustrate the cultural decay of Greek society, because of philosophers like Plato and Socrates.er take apart it’s flaws and analyze the underlining symptoms which spring from it.
 
-[^2] Deconstruction is a term introduced by the French philosopher Jacques Derrida. Though Nietzsche never used the term, it kind of illustrates the method Nietzsche wants to use. He does not necessarily want to destroy all of philosophy, but rather take apart it’s flaws and analyze the underlining symptoms which spring from it.
+[^2]: Deconstruction is a term introduced by the French philosopher Jacques Derrida. Though Nietzsche never used the term, it kind of illustrates the method Nietzsche wants to use. He does not necessarily want to destroy all of philosophy, but rather take apart it’s flaws and analyze the underlining symptoms which spring from it.
