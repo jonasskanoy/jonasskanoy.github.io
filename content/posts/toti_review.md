@@ -9,7 +9,7 @@ tags = ["📚 Book review", "🎓 Philosophy"]
 
 In this post, I’ll review Nietzsche’s famous work *Götzen-Dämmerung*, better known as “Twilight of the Idols”. I will try with the best of my abilities to bring something new to the table with my take on this book and pick out the aphorisms and passages that I found fruitful and thought-provoking. Additionally, I want to see how this work fits into Nietzsche’s canon. So, without further ado, let’s begin!
 
-##Quick disclosure
+## Quick disclosure
 This work might be Nietzsche’s least nuanced work, and a lot of the stands he makes in it is a result of his declining health. This is the third to last book before his breakdown in 1889 and preceded both Antichrist and Ecce homo. With that in mind, his arguments should not be brushed of as the words of madman. Rather, it gives us some interesting perspectives into how Nietzsche’s thought evolved through his philosophical career.
 
 ## The title
