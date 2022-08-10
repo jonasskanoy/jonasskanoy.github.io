@@ -5,7 +5,7 @@ date = "2022-08-10"
 tags = ["📚 Book review", "🎓 Philosophy"] 
 +++
 
-{{< figure src="/images/toti.jpg" alt="Twilight of the Idols" class="right-aligned" >}}
+{{< images toti.jpg >}}
 
 In this post, I’ll review Nietzsche’s famous work *Götzen-Dämmerung*, better known as “Twilight of the Idols”. I will try with the best of my abilities to bring something new to the table with my take on this book and pick out the aphorisms and passages that I found fruitful and thought-provoking. Additionally, I want to see how this work fits into Nietzsche’s canon. So, without further ado, let’s begin!
 
