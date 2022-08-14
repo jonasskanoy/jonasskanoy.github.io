@@ -2,7 +2,7 @@
 author = "Jonas Skånøy" 
 title = "Book review: Twilight of the Idols" 
 date = "2022-08-10" 
-tags = ["📚 Book review/analysis", "🎓 Philosophy"] 
+tags = ["📚 Book review / analysis", "🎓 Philosophy"] 
 +++
 
 {{< figure src="/images/toti.jpg" alt="Twilight of the Idols" class="right-aligned" >}}
