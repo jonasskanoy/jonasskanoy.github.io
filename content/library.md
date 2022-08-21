@@ -48,9 +48,9 @@ The works I *have* read will be marked with a "*".
 - Dostoevsky, F. (2016). *Crime and Punishment*. Solum press.
 - Hemingway, E. (2005). *Best of Hemingway, collected works*. Gyldendal press.
 - Ibsen, H. (2018). *Peer Gynt*. Transit press.
-- Kielland, A. L. (1975). *St. Hans fest*. Gyldendal press.
 - Kielland, A. L. (2008). *Poison*. Gyldendal press.*
 - Kielland, A. L. (2009). *Fortuna*. Gyldendal press.
+- Kielland, A. L. (1975). *St. Hans fest*. Gyldendal press.
 - Loe, E. (1999). *Naïve. Super*. Cappelen press.*
 - Saavedra, M. C. (2005). *Don Quixote*. Aschehoug.
 - Sophocles. (1999). *Oedipus*. Gyldendal press.*
