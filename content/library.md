@@ -14,7 +14,7 @@ The works I *have* read will be marked with a "*".
 - Aristotle. (2010). *On the Soul*. Vidar press.
 - Aristotle. (2013). *Nicomachean Ethics*. Vidar press.
 - Aurelius, M. (2020). *Meditations: Thoughts to Myself*. Cappelen press.*
-- Emerson, R. W. (2003). *Nature and Selected Esssays*. Penguin Classics.
+- Emerson, R. W. (2003). *Nature and Selected Esssays*. Penguin classics.
 - Freud, S. (1997). *The Interpretation of Dreams*. Wordsworth press.
 - Heidegger, M. (2007). *Being and Time*. Pax press.
 - Hume, D. (2009). *A Treatise of Human Nature*. Oxford university press.
@@ -54,5 +54,5 @@ The works I *have* read will be marked with a "*".
 - Loe, E. (1999). *Naïve. Super*. Cappelen press.*
 - Saavedra, M. C. (2005). *Don Quixote*. Aschehoug.
 - Sophocles. (1999). *Oedipus*. Gyldendal press.*
-- Wergeland, H. (2008). *Creation, Man and the Messiah*. Svein Sandnes Book Press.
+- Wergeland, H. (2008). *Creation, Man and the Messiah*. Svein Sandnes Book press.
 - Wergeland, H. (2008). *Hassel-Nødder*. Cappelen press.
