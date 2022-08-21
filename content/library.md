@@ -14,18 +14,22 @@ The works I *have* read will be marked with a "*".
 - Aristotle. (2010). *On the Soul*. Vidar press.
 - Aristotle. (2013). *Nicomachean Ethics*. Vidar press.
 - Aurelius, M. (2020). *Meditations: Thoughts to Myself*. Cappelen press.*
+- Emerson, R. W. (2003). *Nature and Selected Esssays*. Penguin Classics.
 - Freud, S. (1997). *The Interpretation of Dreams*. Wordsworth press.
 - Heidegger, M. (2007). *Being and Time*. Pax press.
 - Hume, D. (2009). *A Treatise of Human Nature*. Oxford university press.
 - Kant, I. (1995). *Critique of Judgment*. Pax press.
 - Kant, I. (2009). *Critique of Pure Reason*. Pax press.
+- Kierkegaard, S. (2014). *The Concept of Anxiety*. October press.
 - Nietzsche, F. (2007). *Daybreak*. Spartacus.
-- Nietzsche, F. (2008). *The Anti-Christ*. Spartacus.*
-- Nietzsche, F. (2008). *Twilight of the Idols*. Spartacus.*
-- Nietzsche, F. (2009). *Beyond Good and Evil*. Spartacus.*
-- Nietzsche, F. (2010). *The Gay Science*. Spartacus.
+- Nietzsche, F. (2012). *Human, All Too Human*. Spartacus.
+- Nietzsche, F. (2010). *The Gay Science*. Spartacus.*
 - Nietzsche, F. (2011). *Thus Spoke Zarathustra*. Spartacus.
+- Nietzsche, F. (2009). *Beyond Good and Evil*. Spartacus.*
 - Nietzsche, F. (2010). *On the Genealogy of Morals*. Spartacus.*
+- Nietzsche, F. (2008). *Twilight of the Idols*. Spartacus.*
+- Nietzsche, F. (2008). *The Anti-Christ*. Spartacus.*
+- Nietzsche, F. (2009). *Ecce Homo*. Spartacus.
 - Plato. (2001). *Collected works IV*. Vidar press. (I've only read the Phaedo dialogue from this work.)
 - Plato. (2013). *The Republic and Other Dialogues*. Barnes & Nobles Inc.
 - Sartre, J.-P. (1993). *Existentialism Is a Humanism*. Cappelen press.
