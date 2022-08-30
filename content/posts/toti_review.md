@@ -27,7 +27,7 @@ As Greek society lost their ethical and aesthetical ways, it became ready for a 
 To put it very briefly here, Nietzsche didn’t have a problem with Socrates *per se*, but rather the decadent nature of the philosophical tradition that derived from him. Life according to Nietzsche would be enjoyed in a greater way without this unnecessary annoyance and questioning.
 
 ## How the real world became a fable
-In this passage, Nietzsche recaps the history of philosophy in the past 3000 years in six very short points. He starts off with Plato’s thought of the true world being in the world of forms, beyond our material reality.[^2] With this, Plato shifts the being of truth to a reality not accessible to our senses.
+In this passage, Nietzsche recaps the history of philosophy in the past 2300 years in six very short points. He starts off with Plato’s thought of the true world being in the world of forms, beyond our material reality.[^2] With this, Plato shifts the being of truth to a reality not accessible to our senses.
 
 Next, Christianity comes in and says that this beyond world is a place that is promised to us by God, as long as you act according to his rule. With this, the material world for a Christian is only a *preparation* for the afterlife; only a means to an end. The here-and-now is of no intrest, thus it is a step further away from our senses. 
 	
