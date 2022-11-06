@@ -52,7 +52,9 @@ The works I *have* read will be marked with a "*".
 - Kielland, A. L. (2009). *Fortuna*. Gyldendal press.
 - Kielland, A. L. (1975). *St. Hans fest*. Gyldendal press.
 - Loe, E. (1999). *Naïve. Super*. Cappelen press.*
+- Pessoa, F. (1997). *The Book of Disquiet*. Solum press.
 - Saavedra, M. C. (2005). *Don Quixote*. Aschehoug.
 - Sophocles. (1999). *Oedipus*. Gyldendal press.*
 - Wergeland, H. (2008). *Creation, Man and the Messiah*. Svein Sandnes Book press.
 - Wergeland, H. (2008). *Hassel-Nødder*. Cappelen press.
+
