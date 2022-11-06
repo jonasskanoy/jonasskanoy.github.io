@@ -37,9 +37,9 @@ The works I *have* read will be marked with a "*".
 - Spinoza, B. (2002). *Ethics*. Pax press.
 - Tomassi, P. (1999). *Logic*. Routledge.*
 - Wittgenstein, L. (2010). *Philosophical Investigations*. Pax press.
-- Zapffe, P. W. (1996). *Om det tragiske*. Pax press.
-- Zapffe, P. W. (1997). *Kulturelt nødverge*. Pax press.
-- Zapffe, P. W. (1998). *Spøk og alvor*. Pax press.
+- Zapffe, P. W. (1996). *On the Tragic*. Pax press.
+- Zapffe, P. W. (1997). *Cultural Emergency Guardian*. Pax press.
+- Zapffe, P. W. (1998). *Jest and Earnest*. Pax press.
 
 ## Novels (Not categorized by type of novel...)
 - Bjørnebo, J. (1994). *Jonas*. Pax press.*
@@ -50,11 +50,11 @@ The works I *have* read will be marked with a "*".
 - Ibsen, H. (2018). *Peer Gynt*. Transit press.
 - Kielland, A. L. (2008). *Poison*. Gyldendal press.*
 - Kielland, A. L. (2009). *Fortuna*. Gyldendal press.
-- Kielland, A. L. (1975). *St. Hans fest*. Gyldendal press.
+- Kielland, A. L. (1975). *St. Hans party*. Gyldendal press.
 - Loe, E. (1999). *Naïve. Super*. Cappelen press.*
 - Pessoa, F. (1997). *The Book of Disquiet*. Solum press.
 - Saavedra, M. C. (2005). *Don Quixote*. Aschehoug.
 - Sophocles. (1999). *Oedipus*. Gyldendal press.*
 - Wergeland, H. (2008). *Creation, Man and the Messiah*. Svein Sandnes Book press.
-- Wergeland, H. (2008). *Hassel-Nødder*. Cappelen press.
+- Wergeland, H. (2008). *Hazelnuts*. Cappelen press.
 
