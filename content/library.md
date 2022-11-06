@@ -24,7 +24,7 @@ The works I *have* read will be marked with a "*".
 - Nietzsche, F. (2007). *Daybreak*. Spartacus.
 - Nietzsche, F. (2012). *Human, All Too Human*. Spartacus.
 - Nietzsche, F. (2010). *The Gay Science*. Spartacus.*
-- Nietzsche, F. (2011). *Thus Spoke Zarathustra*. Spartacus.
+- Nietzsche, F. (2011). *Thus Spoke Zarathustra*. Spartacus.*
 - Nietzsche, F. (2009). *Beyond Good and Evil*. Spartacus.*
 - Nietzsche, F. (2010). *On the Genealogy of Morals*. Spartacus.*
 - Nietzsche, F. (2008). *Twilight of the Idols*. Spartacus.*
