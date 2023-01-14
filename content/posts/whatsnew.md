@@ -1,7 +1,7 @@
 +++ 
 author = "Jonas Skånøy" 
-title = "Problems Regarding Political Debates in this Day and Age." 
-date = "2023-01-08" 
+title = "What is new?" 
+date = "2023-01-15" 
 tags = ["🆕 Updates"] 
 +++
 
