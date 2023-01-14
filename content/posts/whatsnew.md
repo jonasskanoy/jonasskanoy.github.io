@@ -1,6 +1,6 @@
-+++ author = "Jonas Skånøy" title = "What's new?." date = "2022-01-13" tags = ["🆕 Updates", "📚 University stuff"] +++
++++ author = "Jonas Skånøy" title = "What's new?" date = "2022-01-13" tags = ["🆕 Updates", "📚 University stuff"] +++
 
-{{< figure src="/images/edinburgh.jpg" alt="Me in Edinburgh" class="right-aligned" >}}[^1]
+{{< figure src="/images/edinburgh.jpg" alt="Me in Edinburgh" class="right-aligned" >}}
 
 This semester is going to be my final one as a bachelor student in philosophy! Am very excited to get started, and whilst what comes after is uncertain, I am very grateful for the chance I've been given to actually just study something for the sake of liking the subject. I am grateful for having a stable and safe family dynamic, who I can rely on both emotionally, but also with regards to practical manners. They have been support my decisions from day one, and have been a huge help for me in the time when I am starting to create my own future.  
 
