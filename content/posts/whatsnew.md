@@ -1,4 +1,4 @@
-+++ author = "Jonas Skånøy" title = "What's new?" date = "2022-01-13" tags = ["🆕 Updates", "📚 University stuff"] +++
++++ author = "Jonas Skånøy" title = "What's new?" date = "2023-01-15" tags = ["🆕 Updates", "University stuff",] +++
 
 {{< figure src="/images/edinburgh.jpg" alt="Me in Edinburgh" class="right-aligned" >}}
 
@@ -18,4 +18,4 @@ I've been rambling on now for too long, but I felt I had to get this information
 
 Most likely I'll apply for a bachelor in programming next semester at NTNU in Gjøvik, which will be exciting. I have to get out of Trondheim. This city is choking me, and a need some fresh air if you catch my drift. Need new impulses from some other place, to fuel my own formation process. Who knows, maybe I'll find it fun to do something completely out of left field, like painting, or dancing? The doors are open at least, all I have to do is step through, even if uncertainty and anxiety sets in.
 
-[^1]: This is me in April last year, touching the toe of David Humes statue in Edinburgh. Was amazing meeting my friends their. 
+
