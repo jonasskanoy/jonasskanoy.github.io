@@ -1,4 +1,4 @@
-+++ author = "Jonas Skånøy" title = "What's new?" date = "2023-01-15" tags = ["🆕 Updates"] +++
++++ author = "Jonas Skånøy" title = "What is new?" date = "2023-01-15" tags = ["🆕 Updates"] +++
 
 {{< figure src="/images/edinburgh.jpg" alt="Me in Edinburgh" class="right-aligned" >}}
 
