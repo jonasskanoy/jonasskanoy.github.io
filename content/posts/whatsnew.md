@@ -2,7 +2,7 @@
 author = "Jonas Skånøy" 
 title = "What is new?" 
 date = "2023-01-15" 
-tags = ["🆕 Updates", "🏫 University Stuff",] 
+tags = ["🆕 Updates"] 
 +++
 
 {{< figure src="/images/edinburgh.jpg" alt="Me in Edinburgh" class="right-aligned" >}}
