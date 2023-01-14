@@ -2,10 +2,10 @@
 author = "Jonas Skånøy" 
 title = "What is new?" 
 date = "2023-01-15" 
-tags = ["🆕 Updates", "🏫 University Stuff"] 
+tags = ["🆕 Updates", "🏫 University Stuff",] 
 +++
 
-{{< figure src="/images/edinburgh.jpg" alt="Me in Edinburgh" class="right-aligned" >}}[^1]
+{{< figure src="/images/edinburgh.jpg" alt="Me in Edinburgh" class="right-aligned" >}}
 
 This semester is going to be my final one as a bachelor student in philosophy! Am very excited to get started, and whilst what comes after is uncertain, I am very grateful for the chance I've been given to actually just study something for the sake of liking the subject. I am grateful for having a stable and safe family dynamic, who I can rely on both emotionally, but also with regards to practical manners. They have been support my decisions from day one, and have been a huge help for me in the time when I am starting to create my own future.
 
@@ -23,4 +23,4 @@ I've been rambling on now for too long, but I felt I had to get this information
 
 Most likely I'll apply for a bachelor in programming next semester at NTNU in Gjøvik, which will be exciting. I have to get out of Trondheim. This city is choking me, and a need some fresh air if you catch my drift. Need new impulses from some other place, to fuel my own formation process. Who knows, maybe I'll find it fun to do something completely out of left field, like painting, or dancing? The doors are open at least, all I have to do is step through, even if uncertainty and anxiety sets in.
 
-[^1]: This was me, touching the David Hume statues toe while visting my friend in Edinburgh April last year. Had a blast of a time with the whole group who went down. 
+This was me, touching the David Hume statues toe while visting my friend in Edinburgh April last year. Had a blast of a time with the whole group who went down. 
