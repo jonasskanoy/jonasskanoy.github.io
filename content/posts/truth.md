@@ -1,7 +1,7 @@
 +++ 
 author = "Jonas Skånøy" 
 title = "Problems Regarding Political Debates in this Day and Age." 
-date = "2022-11-15" 
+date = "2023-01-08" 
 tags = ["🎓 Philosophy"] 
 +++
 
