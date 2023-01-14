@@ -5,8 +5,6 @@ date = "2023-01-15"
 tags = ["🆕 Updates"] 
 +++
 
-{{< figure src="/images/edinburgh.jpg" alt="Me in Edinburgh" class="right-aligned" >}}
-
 This semester is going to be my final one as a bachelor student in philosophy! Am very excited to get started, and whilst what comes after is uncertain, I am very grateful for the chance I've been given to actually just study something for the sake of liking the subject. I am grateful for having a stable and safe family dynamic, who I can rely on both emotionally, but also with regards to practical manners. They have been support my decisions from day one, and have been a huge help for me in the time when I am starting to create my own future.
 
 With regards to creating my own path, both educationally, but also personally, I've been thinking of a talk I attended a couple of days ago. It took place at Studentersamfundet, and was held by Ole Einar Bøhn. There he talked about Nietszschean critique of the education system, and how current academia as it stands today lack the so-called "forming" part of once education. This might be a strange term for my English readers, but if you consider the Norwegian words for education, it starts to make a whole lot of sense.
