@@ -16,21 +16,24 @@ The works I *have* read will be marked with a "*".
 - Aurelius, M. (2020). *Meditations: Thoughts to Myself*. Cappelen Press.*
 - Emerson, R. W. (2003). *Nature and Selected Esssays*. Penguin Books.
 - Freud, S. (1997). *The Interpretation of Dreams*. Wordsworth Press.
-- Heidegger, M. (2007). *Being and Time*. Pax press.
+- Heidegger, M. (2007). *Being and Time*. Pax Press.
 - Hume, D. (2009). *A Treatise of Human Nature*. Oxford university Press.
 - James, W. (2000). *Pragmatism and Other Writings*. Penguin Books.
-- Kant, I. (1995). *Critique of Judgment*. Pax press.
-- Kant, I. (2009). *Critique of Pure Reason*. Pax press.
-- Kierkegaard, S. (2014). *The Concept of Anxiety*. October press.
-- Nietzsche, F. (2007). *Daybreak*. Spartacus.
-- Nietzsche, F. (2012). *Human, All Too Human*. Spartacus.
-- Nietzsche, F. (2010). *The Gay Science*. Spartacus.*
+- Kant, I. (1995). *Critique of Judgment*. Pax Press.
+- Kant, I. (2009). *Critique of Pure Reason*. Pax Press.
+- Kierkegaard, S. (2014). *The Concept of Anxiety*. October Press.
+- Nietzsche, F. (2007). *Daybreak*. Spartacus Press.
+- Nietzsche, F. (2012). *Human, All Too Human*. Spartacus Press.
+- Nietzsche, F. (2010). *The Gay Science*. Spartacus Press.*
 - Nietzsche, F. (2011). *Thus Spoke Zarathustra*. Spartacus Press.*
 - Nietzsche, F. (2009). *Beyond Good and Evil*. Spartacus Press.*
 - Nietzsche, F. (2010). *On the Genealogy of Morals*. Spartacus Press.*
 - Nietzsche, F. (2008). *Twilight of the Idols*. Spartacus Press.*
 - Nietzsche, F. (2008). *The Anti-Christ*. Spartacus Press.*
 - Nietzsche, F. (2009). *Ecce Homo*. Spartacus Press.
+- Nietzsche, F. (2013). *Untimely Meditations*. Spartacus Press.
+- Nietzsche, F. (2008). *On the Future of our Educational Institutions*. Spartacus Press.
+- Næss, A. (1999). *Life Philosophy*. University Press.
 - Plato. (2001). *Collected works IV*. Vidar Press. (I've only read the Phaedo dialogue from this work.)
 - Plato. (2013). *The Republic and Other Dialogues*. Barnes & Nobles Inc.
 - Sartre, J.-P. (1993). *Existentialism Is a Humanism*. Cappelen Press.
