@@ -1,9 +1,11 @@
 +++ 
 author = "Jonas Skånøy" 
-title = "My thoughts on this semester" 
+title = "My thoughts on this semester." 
 date = "2023-01-15" 
-tags = ["🆕 Updates"] 
+tags = ["🆕 Updates", "🏫 Uni Stuff",] 
 +++
+
+{{< figure src="/images/edinburgh.jpg" alt="You Can’t Handle the Truth" class="right-aligned" >}}[^1]
 
 This semester is going to be my final one as a bachelor student in philosophy! Am very excited to get started, and whilst what comes after is uncertain, I am very grateful for the chance I've been given to actually just study something for the sake of liking the subject. I am grateful for having a stable and safe family dynamic, who I can rely on both emotionally, but also with regards to practical manners. They have been support my decisions from day one, and have been a huge help for me in the time when I am starting to create my own future.
 
@@ -17,8 +19,8 @@ Universities, now more than ever, have stream-lined a way that works in educatio
 
 But I can't see how this is fulfilling, there is so much more to life than abide by what is expected by you. Our experience is contingent, finite, and could be talking away from us at any moment. So why bother doing things in life that just gets you by, when you can do stuff you're passionate about or find interesting? I find it a absurd way of being to not do something other than whats expected of you. In order to be formed, you’ll have to make your own ideal, and strive for it on the basis that you want to achieve it.
 
-I've been rambling on now for too long, but I felt I had to get this information out somewhere. Anyhow, I'm very grateful for the opportunity I've been given to do something with my life I do for myself, rather to please people or systems around me. One might say, with Nietzsche, that it's a part of my formation process, even though a formation process is continuously happening... (but that’s a subject for another time).
+I've been rambling on now for too long, but I felt I had to get this information out somewhere. Anyhow, I'm very grateful for the opportunity I've been given to do something with my life I do for myself, rather than to please the people or systems around me. One might say, with Nietzsche, that it's a part of my formation process, even though a formation process is continuously happening... (but that’s a subject for another time).
 
 Most likely I'll apply for a bachelor in programming next semester at NTNU in Gjøvik, which will be exciting. I have to get out of Trondheim. This city is choking me, and a need some fresh air if you catch my drift. Need new impulses from some other place, to fuel my own formation process. Who knows, maybe I'll find it fun to do something completely out of left field, like painting, or dancing? The doors are open at least, all I have to do is step through, even if uncertainty and anxiety sets in.
 
-This was me, touching the David Hume statues toe while visting my friend in Edinburgh April last year. Had a blast of a time with the whole group who went down. 
+[^1]: This was me, touching the David Hume statues toe while visting my friend in Edinburgh April last year. Had a blast of a time with the whole group who went down. 
