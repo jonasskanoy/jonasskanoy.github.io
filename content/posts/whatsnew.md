@@ -1,6 +1,6 @@
 +++ 
 author = "Jonas Skånøy" 
-title = "What is new?" 
+title = "My thoughts on this semester" 
 date = "2023-01-15" 
 tags = ["🆕 Updates"] 
 +++
