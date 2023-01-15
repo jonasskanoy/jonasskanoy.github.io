@@ -1,6 +1,6 @@
 +++ 
 author = "Jonas Skånøy" 
-title = "Book review: Twilight of the Idols" 
+title = "Book review: Twilight of the Idols." 
 date = "2022-08-10" 
 tags = ["📚 Book Review / Analysis", "🎓 Philosophy"] 
 +++
