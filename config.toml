@@ -1,4 +1,4 @@
-baseURL = "https://www.jonasskanoy.xyz"
+baseURL = "//jonasskanoy.xyz"
 title = "Jonas B. Skånøy"
 theme = "hugo-coder"
 languageCode = "en"
@@ -57,7 +57,7 @@ author = "authors"
 name = "RSS"
 icon = "fa fa-rss-square fa-2x"
 weight = 1
-url = "https://www.jonasskanoy.xyz/posts/index.xml"
+url = "//jonasskanoy.xyz/posts/index.xml"
 rel = "alternate"
 type = "application/rss+xml"
 
