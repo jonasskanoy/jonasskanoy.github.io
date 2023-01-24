@@ -23,4 +23,4 @@ Here are some links to a couple of sites I frequent regularly.
 
 If you want to link to my website, you can download this 88x31 button:
 
-[![Jonas Skanoy](https://jonasskanoy.xyz/gifs/jonasskanoy.gif#center)](https://jonasskanoy.xyz)
+[![Jonas Skanoy](https://www.jonasskanoy.xyz/gifs/jonasskanoy.gif#center)](https://jonasskanoy.xyz)
