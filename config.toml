@@ -14,7 +14,9 @@ pygmentsCodeFencesGuessSyntax = false
 enableEmoji = true
 
 # Enable Disqus comments
-# disqusShortname = "yourdiscussshortname"
+disqusShortname = "JenkooTheLegitCrow"
+disableComments = "false"
+
 
 [params]
 author = "Jonas B. Skånøy"
