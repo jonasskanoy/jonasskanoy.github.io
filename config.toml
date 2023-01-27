@@ -13,11 +13,6 @@ pygmentsCodeFences = false
 pygmentsCodeFencesGuessSyntax = false
 enableEmoji = true
 
-# Enable Disqus comments
-disqusShortname = "jonasskanoy"
-disableComments = "false"
-
-
 [params]
 author = "Jonas B. Skånøy"
 description = "Jonas Skånøy's personal website"
