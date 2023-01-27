@@ -5,3 +5,11 @@
   {{ partial "page.html" . }}
   {{ partial "posts/math.html" . }}
 {{ end }}
+
+<div id="comments">
+{{ with .Params.GHissueID }}
+  {{ partial "comments.html" $ }}
+{{ else }}
+  {{ template "_internal/disqus.html" . }}
+{{ end }}
+</div>
