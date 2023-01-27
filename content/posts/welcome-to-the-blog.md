@@ -3,7 +3,7 @@ author = "Jonas Skånøy"
 title = "Welcome to the blog."
 date = "2022-07-04"
 tags = ["🆕 Updates"]
-GHissueID = "2"
+GHissueID = "1"
 +++
 
 So, it's about time for me to start blogging! I've been putting off the idea for quite some time now (Just wanted everything else on the site to be in order first), but finally I am doing it.
