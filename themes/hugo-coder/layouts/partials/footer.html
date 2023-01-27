@@ -5,6 +5,7 @@
       {{ .Site.Params.since }} -
     {{ end }}
     {{ now.Year }}
+    ·
     {{ with .Site.Params.author }} {{ . }} {{ end }}
     ·
     {{ if (and .Site.Params.license) }}
