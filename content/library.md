@@ -61,6 +61,7 @@ The works I *have* read will be marked with a "*".
 - Kielland, A. L. (2009). *Fortuna*. Gyldendal Press.
 - Kielland, A. L. (1975). *St. Hans party*. Gyldendal Press.
 - Loe, E. (1999). *Naïve. Super*. Cappelen Press.*
+- Melville, H. (2013). *Moby-Dick*. Penguin Books.
 - Pessoa, F. (1997). *The Book of Disquiet*. Solum Press.
 - Saavedra, M. C. (2005). *Don Quixote*. Aschehoug Press.
 - Seltzer, T. (2022). *American Karmageddon: Thoughts on My Damned Fatherland*. The October Press.
