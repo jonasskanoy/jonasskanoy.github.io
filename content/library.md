@@ -18,6 +18,7 @@ The works I *have* read will be marked with a "*".
 - Freud, S. (1997). *The Interpretation of Dreams*. Wordsworth Press.
 - Heidegger, M. (2007). *Being and Time*. Pax Press.
 - Hume, D. (2009). *A Treatise of Human Nature*. Oxford university Press.
+- James, W. (2016). *Essays in Radical Empiricism: William James*. Createspace Independent Publishing Platform.
 - James, W. (2000). *Pragmatism and Other Writings*. Penguin Books.
 - Kant, I. (1995). *Critique of Judgment*. Pax Press.
 - Kant, I. (2009). *Critique of Pure Reason*. Pax Press.
@@ -36,6 +37,7 @@ The works I *have* read will be marked with a "*".
 - Næss, A. (1999). *Life Philosophy*. University Press.
 - Plato. (2001). *Collected works IV*. Vidar Press. (I've only read the Phaedo dialogue from this work.)
 - Plato. (2013). *The Republic and Other Dialogues*. Barnes & Nobles Inc.
+- Rorty, R. & Engel, P. (2016) *What's is the Use of Truth?*. Columbia University Press.*
 - Sartre, J.-P. (1993). *Existentialism Is a Humanism*. Cappelen Press.
 - Schopenhauer, A. (2005). *The World as Will and Representation*. Gyldendal Press.
 - Spinoza, B. (2002). *Ethics*. Pax Press.
@@ -44,6 +46,9 @@ The works I *have* read will be marked with a "*".
 - Zapffe, P. W. (1996). *On the Tragic*. Pax Press.
 - Zapffe, P. W. (1997). *Cultural Emergency Guardian*. Pax Press.
 - Zapffe, P. W. (1998). *Jest and Earnest*. Pax Press.
+
+## Religious Studies
+- Ghandi, M. (1963). *All Men are Brothers*. The Book Club's Cultural Library.
 
 ## Novels (Not categorized by type of novel...)
 - Bjørnebo, J. (1994). *Jonas*. Pax Press.*
@@ -58,6 +63,7 @@ The works I *have* read will be marked with a "*".
 - Loe, E. (1999). *Naïve. Super*. Cappelen Press.*
 - Pessoa, F. (1997). *The Book of Disquiet*. Solum Press.
 - Saavedra, M. C. (2005). *Don Quixote*. Aschehoug Press.
+- Seltzer, T. (2022). *American Karmageddon: Thoughts on My Damned Fatherland*. The October Press.
 - Sophocles. (1999). *Oedipus*. Gyldendal Press.*
 - Wergeland, H. (2008). *Creation, Man and the Messiah*. Svein Sandnes Book Press.
 - Wergeland, H. (2008). *Hazelnuts*. Cappelen Press.
