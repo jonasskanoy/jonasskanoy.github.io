@@ -13,7 +13,7 @@ If you're instrested, or I've applied for a job at your workplace, consider chec
 * Click [here](/CV/CV_English.pdf) (English)
 
 ## Links
-Here are some links to a couple of sites I frequent regularly.
+Here are some links to a couple of sites I frequently visit.
 
 | [![Land Chad](https://www.jonasskanoy.xyz/gifs/landchad.gif)](https://landchad.net/) 	|  [![Martin Chrzanowski](https://www.jonasskanoy.xyz/gifs/martin.gif)](https://m-chrzan.xyz/)  	|
 |:------------------------------------------------------------------------------------:	|:---------------------------------------------------------------------------------------------:	|
