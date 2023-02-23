@@ -53,6 +53,7 @@ The works I *have* read will be marked with a "*".
 ## Novels (Not categorized by type of novel...)
 - Bjørnebo, J. (1994). *Jonas*. Pax Press.*
 - Bulgakov, M. (1995). *The Master and Margarita*. The Norwegian Book Club.
+- Camus, A. (2020). *The Plague*. Solum Bookfriends.
 - Camus, A. (2015). *The Stranger*. Gyldendal Press.*
 - Dostoevsky, F. (2016). *Crime and Punishment*. Solum Press.
 - Hemingway, E. (2005). *Best of Hemingway, collected works*. Gyldendal Press.
