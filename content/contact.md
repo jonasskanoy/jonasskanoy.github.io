@@ -10,4 +10,4 @@ I’m not on Telegram, Twitter or Reddit, so email and github will have to do.
 
 ## :closed_book: Rules
 1. Don’t contact me about gossip or political opinions, should go without saying these days.
-2. Don’t contact me asking me to shill your product unless it is all free software. I am not really a hardcore tech consumer.
+2. Don’t contact me asking me to shill your product unless it is all free software. I am not a hardcore tech consumer.
