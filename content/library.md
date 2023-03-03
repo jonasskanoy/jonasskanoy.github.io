@@ -51,6 +51,9 @@ The works I *have* read will be marked with a "*".
 ## Religious Studies
 - Ghandi, M. (1963). *All Men are Brothers*. The Book Club's Cultural Library.
 
+## Books of Scientific Research
+- Tunstad. E. & Riiser-Larsen, V. (2020). *Neanderthal: The People Who Vanished*. Humanist Press.
+
 ## Novels (Not categorized by type of novel...)
 - Bjørnebo, J. (1994). *Jonas*. Pax Press.*
 - Bulgakov, M. (1995). *The Master and Margarita*. The Norwegian Book Club.
@@ -68,6 +71,8 @@ The works I *have* read will be marked with a "*".
 - Saavedra, M. C. (2005). *Don Quixote*. Aschehoug Press.
 - Seltzer, T. (2022). *American Karmageddon: Thoughts on My Damned Fatherland*. The October Press.
 - Sophocles. (1999). *Oedipus*. Gyldendal Press.*
+- Tartt, D. (2014). *The Secret History*. Time Norwegian Press.
 - Wergeland, H. (2008). *Creation, Man and the Messiah*. Svein Sandnes Book Press.
 - Wergeland, H. (2008). *Hazelnuts*. Cappelen Press.
+- Wilde, O. (2013). *The Picture of Dorian Gray*. Verito Classics.
 
