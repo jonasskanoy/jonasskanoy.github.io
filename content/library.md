@@ -14,8 +14,9 @@ The works I *have* read will be marked with a "*".
 - Aristotle. (2010). *On the Soul*. Vidar Press.
 - Aristotle. (2013). *Nicomachean Ethics*. Vidar Press.
 - Aurelius, M. (2020). *Meditations: Thoughts to Myself*. Cappelen Press.*
-- Bergson, H-L. (2019). *Time and Free Will*. Gray Rabbit Publishing. 
+- Bergson, H-L. (2019). *Time and Free Will*. Gray Rabbit Publishing.
 - Emerson, R. W. (2003). *Nature and Selected Esssays*. Penguin Books.
+- Epictetus. (2020). *A Handbook in the Art of Living*. Arneberg.
 - Freud, S. (1997). *The Interpretation of Dreams*. Wordsworth Press.
 - Heidegger, M. (2007). *Being and Time*. Pax Press.
 - Hume, D. (2009). *A Treatise of Human Nature*. Oxford university Press.
