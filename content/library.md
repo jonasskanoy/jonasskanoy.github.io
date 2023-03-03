@@ -22,7 +22,6 @@ The works I *have* read will be marked with a "*".
 - Hume, D. (2009). *A Treatise of Human Nature*. Oxford university Press.
 - James, W. (2016). *Essays in Radical Empiricism*. Createspace Independent Publishing Platform.
 - James, W. (2000). *Pragmatism and Other Writings*. Penguin Books.
-- Kant, I. (1995). *Critique of Judgment*. Pax Press.
 - Kant, I. (2009). *Critique of Pure Reason*. Pax Press.
 - Kierkegaard, S. (2014). *The Concept of Anxiety*. October Press.
 - Nietzsche, F. (2007). *Daybreak*. Spartacus Press.
