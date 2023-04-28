@@ -18,11 +18,11 @@ author = "Jonas B. Skånøy"
 description = "Jonas Skånøy's personal website"
 keywords = "blog,developer,personal"
 info = ["Philosophy", "Tech"]
-avatarURL = "images/profile.jpg"
+avatarURL = "images/profile_1.jpg"
 #gravatar = "john.doe@example.com"
 	
-favicon_32 = "images/profile.jpg"
-favicon_16 = "images/profile.jpg"
+favicon_32 = "images/profile_1.jpg"
+favicon_16 = "images/profile_1.jpg"
 
 
 dateFormat = "2/1/2006"
