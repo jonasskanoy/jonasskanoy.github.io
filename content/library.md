@@ -6,7 +6,7 @@ aliases = ["library"]
 
 # Personal library
 
-This is a sorted list of the books I currently own. It's categorized according to it's genre, i.e. novels and philosophy. Keep in mind that most of these are made from norwegian publishers, so there might not be a english copy of some of the works printed here.
+This is a sorted list of the books I currently own. It's categorized according to it's genre, i.e. novels and philosophy. Keep in mind that most of these are made from norwegian publishers, so I took some liberties and translated most of them.
 
 The works I *have* read will be marked with a "*".
 
@@ -57,7 +57,7 @@ The works I *have* read will be marked with a "*".
 - Tunstad. E. & Riiser-Larsen, V. (2020). *Neanderthal: The People Who Vanished*. Humanist Press.
 
 ## Novels (Not categorized by type of novel...)
-- Bernhard, T. (1990). *Trær som faller*. Gyldendal Press.
+- Bernhard, T. (1990). *Falling Trees*. Gyldendal Press.
 - Bjørnebo, J. (1994). *Jonas*. Pax Press.*
 - Bulgakov, M. (1995). *The Master and Margarita*. The Norwegian Book Club.
 - Camus, A. (2020). *The Plague*. Solum Bookfriends.
