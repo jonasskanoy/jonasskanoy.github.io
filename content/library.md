@@ -8,7 +8,7 @@ aliases = ["library"]
 
 This is a sorted list of the books I currently own. It's categorized according to it's genre, i.e. novels and philosophy. Keep in mind that most of these are made from norwegian publishers, so I took some liberties and translated most of them.
 
-The works I *have* read will be marked with a "*", if not it's left blank. If I'm currently reading, it will be designated with a "¤".
+The works I *have* read will be marked with a "*", if not it's left blank. If I'm currently reading a work, it will be designated with a "¤".
 
 ## Philosophy, Psychology, Logic and Aesthetics 
 - Aristotle. (2010). *On the Soul*. Vidar Press.
