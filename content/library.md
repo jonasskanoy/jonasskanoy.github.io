@@ -50,11 +50,14 @@ The works I *have* read will be marked with a "*".
 
 ## Religious Studies
 - Ghandi, M. (1963). *All Men are Brothers*. The Book Club's Cultural Library.
+- James, W. (1983). *The Varieties of Religous Experience*. Penguin Books.
 
 ## Books of Scientific Research
+- Darwin, C. (2009). *On the Origin of Species*. Penguin Books.
 - Tunstad. E. & Riiser-Larsen, V. (2020). *Neanderthal: The People Who Vanished*. Humanist Press.
 
 ## Novels (Not categorized by type of novel...)
+- Bernhard, T. (1990). *Trær som faller*. Gyldendal Press.
 - Bjørnebo, J. (1994). *Jonas*. Pax Press.*
 - Bulgakov, M. (1995). *The Master and Margarita*. The Norwegian Book Club.
 - Camus, A. (2020). *The Plague*. Solum Bookfriends.
