@@ -8,7 +8,7 @@ aliases = ["library"]
 
 This is a sorted list of the books I currently own. It's categorized according to it's genre, i.e. novels and philosophy. Keep in mind that most of these are made from norwegian publishers, so I took some liberties and translated most of them.
 
-The works I *have* read will be marked with a "*".
+The works I *have* read will be marked with a "*", if not it's left blank. If I'm currently reading, it will be designated with a "¤".
 
 ## Philosophy, Psychology, Logic and Aesthetics 
 - Aristotle. (2010). *On the Soul*. Vidar Press.
@@ -50,17 +50,17 @@ The works I *have* read will be marked with a "*".
 
 ## Religious Studies
 - Ghandi, M. (1963). *All Men are Brothers*. The Book Club's Cultural Library.
-- James, W. (1983). *The Varieties of Religous Experience*. Penguin Books.
+- James, W. (1983). *The Varieties of Religous Experience*. Penguin Books.¤
 
 ## Books of Scientific Research
-- Darwin, C. (2009). *On the Origin of Species*. Penguin Books.
+- Darwin, C. (2009). *On the Origin of Species*. Penguin Books.¤
 - Tunstad. E. & Riiser-Larsen, V. (2020). *Neanderthal: The People Who Vanished*. Humanist Press.
 
 ## Novels (Not categorized by type of novel...)
-- Bernhard, T. (1990). *Falling Trees*. Gyldendal Press.
+- Bernhard, T. (1990). *Falling Trees*. Gyldendal Press.¤
 - Bjørnebo, J. (1994). *Jonas*. Pax Press.*
 - Bulgakov, M. (1995). *The Master and Margarita*. The Norwegian Book Club.
-- Camus, A. (2020). *The Plague*. Solum Bookfriends.
+- Camus, A. (2020). *The Plague*. Solum Bookfriends.*
 - Camus, A. (2015). *The Stranger*. Gyldendal Press.*
 - Dostoevsky, F. (2016). *Crime and Punishment*. Solum Press.
 - Hemingway, E. (2005). *Best of Hemingway, collected works*. Gyldendal Press.
@@ -77,5 +77,5 @@ The works I *have* read will be marked with a "*".
 - Tartt, D. (2014). *The Secret History*. Time Norwegian Press.
 - Wergeland, H. (2008). *Creation, Man and the Messiah*. Svein Sandnes Book Press.
 - Wergeland, H. (2008). *Hazelnuts*. Cappelen Press.
-- Wilde, O. (2013). *The Picture of Dorian Gray*. Verito Classics.
+- Wilde, O. (2013). *The Picture of Dorian Gray*. Verito Classics.*
 
