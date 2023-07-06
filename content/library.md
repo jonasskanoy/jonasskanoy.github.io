@@ -15,13 +15,13 @@ The works I *have* read will be marked with a "*", if not it's left blank. If I'
 - Aristotle. (2013). *Nicomachean Ethics*. Vidar Press.
 - Aurelius, M. (2020). *Meditations: Thoughts to Myself*. Cappelen Press.*
 - Bergson, H-L. (2019). *Time and Free Will*. Gray Rabbit Publishing.
-- Emerson, R. W. (2003). *Nature and Selected Esssays*. Penguin Books.
+- Emerson, R. W. (2003). *Nature and Selected Esssays*. Penguin Books.*
 - Epictetus. (2020). *A Handbook in the Art of Living*. Arneberg.
 - Freud, S. (1997). *The Interpretation of Dreams*. Wordsworth Press.
 - Heidegger, M. (2007). *Being and Time*. Pax Press.
 - Hume, D. (2009). *A Treatise of Human Nature*. Oxford university Press.
-- James, W. (2016). *Essays in Radical Empiricism*. Createspace Independent Publishing Platform.
-- James, W. (2000). *Pragmatism and Other Writings*. Penguin Books.
+- James, W. (2016). *Essays in Radical Empiricism*. Createspace Independent Publishing Platform.*
+- James, W. (2000). *Pragmatism and Other Writings*. Penguin Books.*
 - Kant, I. (2009). *Critique of Pure Reason*. Pax Press.
 - Kierkegaard, S. (2014). *The Concept of Anxiety*. October Press.
 - Nietzsche, F. (2007). *Daybreak*. Spartacus Press.
@@ -34,7 +34,7 @@ The works I *have* read will be marked with a "*", if not it's left blank. If I'
 - Nietzsche, F. (2008). *The Anti-Christ*. Spartacus Press.*
 - Nietzsche, F. (2009). *Ecce Homo*. Spartacus Press.
 - Nietzsche, F. (2013). *Untimely Meditations*. Spartacus Press.
-- Nietzsche, F. (2008). *On the Future of our Educational Institutions*. Spartacus Press.
+- Nietzsche, F. (2008). *On the Future of our Educational Institutions*. Spartacus Press.*
 - Næss, A. (1999). *Life Philosophy*. University Press.
 - Plato. (2001). *Collected works IV*. Vidar Press. (I've only read the Phaedo dialogue from this work.)
 - Plato. (2013). *The Republic and Other Dialogues*. Barnes & Nobles Inc.
