@@ -1,7 +1,7 @@
 +++ 
 author = "Jonas Skånøy" 
 title = "Currently in the US, plus some updates." 
-date = "2023-01-15" 
+date = "2023-07-06" 
 tags = ["🆕 Updates",] 
 +++
 
