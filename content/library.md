@@ -15,6 +15,7 @@ The works I *have* read will be marked with a "*", if not it's left blank. If I'
 - Aristotle. (2013). *Nicomachean Ethics*. Vidar Press.
 - Aurelius, M. (2020). *Meditations: Thoughts to Myself*. Cappelen Press.*
 - Bergson, H-L. (2019). *Time and Free Will*. Gray Rabbit Publishing.
+- Dewey, J. (2005). *Art as Experience*. Perigee Press.
 - Emerson, R. W. (2003). *Nature and Selected Esssays*. Penguin Books.*
 - Epictetus. (2020). *A Handbook in the Art of Living*. Arneberg.
 - Freud, S. (1997). *The Interpretation of Dreams*. Wordsworth Press.
@@ -39,14 +40,13 @@ The works I *have* read will be marked with a "*", if not it's left blank. If I'
 - Plato. (2001). *Collected works IV*. Vidar Press. (I've only read the Phaedo dialogue from this work.)
 - Plato. (2013). *The Republic and Other Dialogues*. Barnes & Nobles Inc.
 - Rorty, R. & Engel, P. (2016) *What's is the Use of Truth?*. Columbia University Press.*
+- Rorty, R. (2009). *Philosophy and the Mirror of Nature*. Princeton University Press.
 - Sartre, J.-P. (1993). *Existentialism Is a Humanism*. Cappelen Press.
 - Schopenhauer, A. (2005). *The World as Will and Representation*. Gyldendal Press.
 - Spinoza, B. (2002). *Ethics*. Pax Press.
 - Tomassi, P. (1999). *Logic*. Routledge.*
 - Wittgenstein, L. (2010). *Philosophical Investigations*. Pax Press.
 - Zapffe, P. W. (1996). *On the Tragic*. Pax Press.
-- Zapffe, P. W. (1997). *Cultural Emergency Guardian*. Pax Press.
-- Zapffe, P. W. (1998). *Jest and Earnest*. Pax Press.
 
 ## Religious Studies
 - Ghandi, M. (1963). *All Men are Brothers*. The Book Club's Cultural Library.
@@ -74,7 +74,6 @@ The works I *have* read will be marked with a "*", if not it's left blank. If I'
 - Saavedra, M. C. (2005). *Don Quixote*. Aschehoug Press.
 - Seltzer, T. (2022). *American Karmageddon: Thoughts on My Damned Fatherland*. The October Press.
 - Sophocles. (1999). *Oedipus*. Gyldendal Press.*
-- Tartt, D. (2014). *The Secret History*. Time Norwegian Press.
 - Wergeland, H. (2008). *Creation, Man and the Messiah*. Svein Sandnes Book Press.
 - Wergeland, H. (2008). *Hazelnuts*. Cappelen Press.
 - Wilde, O. (2013). *The Picture of Dorian Gray*. Verito Classics.*
