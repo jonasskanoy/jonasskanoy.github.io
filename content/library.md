@@ -43,8 +43,10 @@ The works I *have* read will be marked with a "*", if not it's left blank. If I'
 - Rorty, R. (2009). *Philosophy and the Mirror of Nature*. Princeton University Press.
 - Sartre, J.-P. (1993). *Existentialism Is a Humanism*. Cappelen Press.
 - Schopenhauer, A. (2005). *The World as Will and Representation*. Gyldendal Press.
+- Shenk, J. W. (2005). *Lincoln's Melancholy*. Mariner Books.
 - Spinoza, B. (2002). *Ethics*. Pax Press.
 - Tomassi, P. (1999). *Logic*. Routledge.*
+- Vilje, H. (2022). *Én svale gjør ingen sommer*. Res Publica.
 - Wittgenstein, L. (2010). *Philosophical Investigations*. Pax Press.
 - Zapffe, P. W. (1996). *On the Tragic*. Pax Press.
 
@@ -74,6 +76,7 @@ The works I *have* read will be marked with a "*", if not it's left blank. If I'
 - Saavedra, M. C. (2005). *Don Quixote*. Aschehoug Press.
 - Seltzer, T. (2022). *American Karmageddon: Thoughts on My Damned Fatherland*. The October Press.
 - Sophocles. (1999). *Oedipus*. Gyldendal Press.*
+- Tolstoy, L. (2010). *Anna Karenina*. Gyldendal Press.
 - Wergeland, H. (2008). *Creation, Man and the Messiah*. Svein Sandnes Book Press.
 - Wergeland, H. (2008). *Hazelnuts*. Cappelen Press.
 - Wilde, O. (2013). *The Picture of Dorian Gray*. Verito Classics.*
