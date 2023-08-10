@@ -18,8 +18,7 @@ Here are some links to a couple of sites I frequently visit.
 | [![Land Chad](https://www.jonasskanoy.xyz/gifs/landchad.gif)](https://landchad.net/) 	|  [![Martin Chrzanowski](https://www.jonasskanoy.xyz/gifs/martin.gif)](https://m-chrzan.xyz/)  	|
 |:------------------------------------------------------------------------------------:	|:---------------------------------------------------------------------------------------------:	|
 |        [Low ← Tech Magazine](https://solar.lowtechmagazine.com/)                     	| [![based.cooking](https://www.jonasskanoy.xyz/gifs/basedcooking.gif)](https://based.cooking/)   	|
-|                        [Arjun Yadav](https://arjunyadav.xyz/)                          	|             [Wolfgang's Blog](https://notthebe.ee/)               	|
-|                              	|                [Daniel Bonevac](https://www.youtube.com/user/PhiloofAlexandria)                 	|
+|                        [Daniel Bonevac](https://www.youtube.com/user/PhiloofAlexandria)                          	|             [Wolfgang's Blog](https://notthebe.ee/)               	|
 
 If you want to link to my website, you can download this 88x31 button:
 
