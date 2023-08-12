@@ -12,7 +12,7 @@ The works I *have* read will be marked with a "*", if not it's left blank. If I'
 
 ## Philosophy, Psychology, Logic and Aesthetics 
 - Aristotle. (2010). *On the Soul*. Vidar Press.
-- Aristotle. (2013). *Nicomachean Ethics*. Vidar Press.
+- Aristotle. (2013). *Nicomachean Ethics*. Vidar Press.¤
 - Aurelius, M. (2020). *Meditations: Thoughts to Myself*. Cappelen Press.*
 - Bergson, H-L. (2019). *Time and Free Will*. Gray Rabbit Publishing.
 - Dewey, J. (2005). *Art as Experience*. Perigee Press.
@@ -57,9 +57,9 @@ The works I *have* read will be marked with a "*", if not it's left blank. If I'
 ## Books of Scientific Research
 - Darwin, C. (2009). *On the Origin of Species*. Penguin Books.¤
 - Tunstad. E. & Riiser-Larsen, V. (2020). *Neanderthal: The People Who Vanished*. Humanist Press.
-
+- Friedenberg, J., Silverman, G. & Spivey, M. J. (2021). *Cognitive Science - International Student Edition* (4th edt.). SAGE Publications Inc.
 ## Novels (Not categorized by type of novel...)
-- Bernhard, T. (1990). *Falling Trees*. Gyldendal Press.¤
+- Bernhard, T. (1990). *Falling Trees*. Gyldendal Press.
 - Bjørnebo, J. (1994). *Jonas*. Pax Press.*
 - Bulgakov, M. (1995). *The Master and Margarita*. The Norwegian Book Club.
 - Camus, A. (2020). *The Plague*. Solum Bookfriends.*
