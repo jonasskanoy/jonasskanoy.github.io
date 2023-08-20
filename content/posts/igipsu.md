@@ -5,9 +5,9 @@ date = "2023-07-28"
 tags = ["🆕 Updates", "🏫 Uni Stuff",] 
 +++
 
-I finally got a definite indication that I got into cognitive science at the University of Bergen! I'm very excited for what this entails, and especially to see what Bergen is like. I have used the past week (I found out that I got in only 4-5 days ago) to do some research on how my following semesters are structured, as well as to register and pay the student fee for it.
+I finally got a definite indication: I got into Cognitive Science program at the University of Bergen! I'm very excited for what this entails, and especially to see what Bergen is like. I have used the past week (I found out that I got in only 4-5 days ago) to do some research on how my following semesters are structured, as well as to register and pay the student fee for it.
 
-I hope it lives up the hype, it's after all the only place in Norway you can get this kind experience. 
+I hope it lives up the hype, it's after all the only place in Norway you can get this kind of experience. 
 
 The trip down there is probably going to be a drag, for it's 9h 30m ish... However, this means I get to spend some quality time with my dad, as well as dust off my driving skills. 
 
