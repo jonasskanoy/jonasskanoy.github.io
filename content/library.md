@@ -23,6 +23,7 @@ The works I *have* read will be marked with a "*", if not it's left blank. If I'
 - Hume, D. (2009). *A Treatise of Human Nature*. Oxford university Press.
 - James, W. (2016). *Essays in Radical Empiricism*. Createspace Independent Publishing Platform.*
 - James, W. (2000). *Pragmatism and Other Writings*. Penguin Books.*
+- James, W. (1950). *The Principles of Psychology, vol. 1*. Dover Publications.
 - Kant, I. (2009). *Critique of Pure Reason*. Pax Press.
 - Kierkegaard, S. (2014). *The Concept of Anxiety*. October Press.
 - Nietzsche, F. (2007). *Daybreak*. Spartacus Press.
@@ -58,10 +59,12 @@ The works I *have* read will be marked with a "*", if not it's left blank. If I'
 - Darwin, C. (2009). *On the Origin of Species*. Penguin Books.¤
 - Tunstad. E. & Riiser-Larsen, V. (2020). *Neanderthal: The People Who Vanished*. Humanist Press.
 - Friedenberg, J., Silverman, G. & Spivey, M. J. (2021). *Cognitive Science - International Student Edition* (4th edt.). SAGE Publications Inc.
+- Noë, A. (2009). *Out of Our Heads: Why You Are Not Your Brain, and Other Lessons from the Biology of Consciousness*. Hill and Wang.
+
 ## Novels (Not categorized by type of novel...)
 - Bernhard, T. (1990). *Falling Trees*. Gyldendal Press.
 - Bjørnebo, J. (1994). *Jonas*. Pax Press.*
-- Bulgakov, M. (1995). *The Master and Margarita*. The Norwegian Book Club.
+- Bulgakov, M. (1995). *The Master and Margarita*. The Norwegian Book Club.¤
 - Camus, A. (2020). *The Plague*. Solum Bookfriends.*
 - Camus, A. (2015). *The Stranger*. Gyldendal Press.*
 - Dostoevsky, F. (2016). *Crime and Punishment*. Solum Press.
