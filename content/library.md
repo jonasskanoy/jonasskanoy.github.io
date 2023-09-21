@@ -83,4 +83,3 @@ The works I *have* read will be marked with a "*", if not it's left blank. If I'
 - Wergeland, H. (2008). *Creation, Man and the Messiah*. Svein Sandnes Book Press.
 - Wergeland, H. (2008). *Hazelnuts*. Cappelen Press.
 - Wilde, O. (2013). *The Picture of Dorian Gray*. Verito Classics.*
-
