@@ -37,6 +37,9 @@ The works I *have* read will be marked with a "*", if not it's left blank. If I'
 - Nietzsche, F. (2009). *Ecce Homo*. Spartacus Press.
 - Nietzsche, F. (2013). *Untimely Meditations*. Spartacus Press.
 - Nietzsche, F. (2008). *On the Future of our Educational Institutions*. Spartacus Press.*
+- Nishitani, K. (1983). *Religion and Nothingness*. SD Books.
+- Marion, J-L. (2002). *Being Given*. Stanford University Press.
+- Marion, J-L. (2018). *On Descartes' Passive Thought*. The University of Chicago Press.
 - Næss, A. (1999). *Life Philosophy*. University Press.
 - Plato. (2001). *Collected works IV*. Vidar Press. (I've only read the Phaedo dialogue from this work.)
 - Plato. (2013). *The Republic and Other Dialogues*. Barnes & Nobles Inc.
