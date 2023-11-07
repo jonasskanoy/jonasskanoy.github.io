@@ -21,7 +21,7 @@ The works I *have* read will be marked with a "*", if not it's left blank. If I'
 - Freud, S. (1997). *The Interpretation of Dreams*. Wordsworth Press.
 - Heidegger, M. (2007). *Being and Time*. Pax Press.¤
 - Hume, D. (2009). *A Treatise of Human Nature*. Oxford university Press.
-- Husserl, E. (2019). *Cartesian meditations*. Hans Reitzels Press.¤
+- Husserl, E. (2019). *Cartesian meditation*. Hans Reitzels Press.¤
 - James, W. (2016). *Essays in Radical Empiricism*. Createspace Independent Publishing Platform.*
 - James, W. (2000). *Pragmatism and Other Writings*. Penguin Books.*
 - James, W. (1950). *The Principles of Psychology, vol. 1*. Dover Publications.
@@ -51,7 +51,7 @@ The works I *have* read will be marked with a "*", if not it's left blank. If I'
 - Shenk, J. W. (2005). *Lincoln's Melancholy*. Mariner Books.
 - Spinoza, B. (2002). *Ethics*. Pax Press.
 - Tomassi, P. (1999). *Logic*. Routledge.*
-- Vilje, H. (2022). *Én svale gjør ingen sommer*. Res Publica.
+- Vilje, H. (2022). *One Swallow Doesn't Make a Summer*. Res Publica.
 - Wittgenstein, L. (2010). *Philosophical Investigations*. Pax Press.
 - Zapffe, P. W. (1996). *On the Tragic*. Pax Press.
 
