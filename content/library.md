@@ -21,7 +21,7 @@ The works I *have* read will be marked with a "*", if not it's left blank. If I'
 - Freud, S. (1997). *The Interpretation of Dreams*. Wordsworth Press.
 - Heidegger, M. (2007). *Being and Time*. Pax Press.¤
 - Hume, D. (2009). *A Treatise of Human Nature*. Oxford university Press.
-- Husserl, E. (2019). *Cartesianske meditationer*. Hans Reitzels Press.¤
+- Husserl, E. (2019). *Cartesian meditations*. Hans Reitzels Press.¤
 - James, W. (2016). *Essays in Radical Empiricism*. Createspace Independent Publishing Platform.*
 - James, W. (2000). *Pragmatism and Other Writings*. Penguin Books.*
 - James, W. (1950). *The Principles of Psychology, vol. 1*. Dover Publications.
