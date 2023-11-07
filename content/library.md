@@ -57,7 +57,7 @@ The works I *have* read will be marked with a "*", if not it's left blank. If I'
 
 ## Religious Studies
 - Ghandi, M. (1963). *All Men are Brothers*. The Book Club's Cultural Library.
-- James, W. (1983). *The Varieties of Religous Experience*. Penguin Books.¤
+- James, W. (1983). *The Varieties of Religous Experience*. Penguin Books.*
 
 ## Books of Scientific Research
 - Darwin, C. (2009). *On the Origin of Species*. Penguin Books.¤
@@ -68,7 +68,7 @@ The works I *have* read will be marked with a "*", if not it's left blank. If I'
 ## Novels (Not categorized by type of novel...)
 - Bernhard, T. (1990). *Falling Trees*. Gyldendal Press.
 - Bjørnebo, J. (1994). *Jonas*. Pax Press.*
-- Bulgakov, M. (1995). *The Master and Margarita*. The Norwegian Book Club.¤
+- Bulgakov, M. (1995). *The Master and Margarita*. The Norwegian Book Club.
 - Camus, A. (2020). *The Plague*. Solum Bookfriends.*
 - Camus, A. (2015). *The Stranger*. Gyldendal Press.*
 - Dostoevsky, F. (2016). *Crime and Punishment*. Solum Press.
