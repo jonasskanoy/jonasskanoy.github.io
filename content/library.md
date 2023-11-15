@@ -11,7 +11,7 @@ This is a sorted list of the books I currently own. It's categorized according t
 The works I *have* read will be marked with a "*", if not it's left blank. If I'm currently reading a work, it will be designated with a "¤".
 
 ## Philosophy, Psychology, Logic and Aesthetics 
-- Aristotle. (2010). *On the Soul*. Vidar Press.*
+- Aristotle. (2010). *On the Soul*. Vidar Press.
 - Aristotle. (2013). *Nicomachean Ethics*. Vidar Press.¤
 - Aurelius, M. (2020). *Meditations: Thoughts to Myself*. Cappelen Press.*
 - Bergson, H-L. (2019). *Time and Free Will*. Gray Rabbit Publishing.
@@ -24,7 +24,7 @@ The works I *have* read will be marked with a "*", if not it's left blank. If I'
 - Husserl, E. (2019). *Cartesian meditation*. Hans Reitzels Press.¤
 - James, W. (2016). *Essays in Radical Empiricism*. Createspace Independent Publishing Platform.*
 - James, W. (2000). *Pragmatism and Other Writings*. Penguin Books.*
-- James, W. (1950). *The Principles of Psychology, vol. 1*. Dover Publications.
+- James, W. (1950). *The Principles of Psychology, vol. 1*. Dover Publications. ¤
 - Kant, I. (2009). *Critique of Pure Reason*. Pax Press.
 - Kierkegaard, S. (2014). *The Concept of Anxiety*. October Press.
 - Nietzsche, F. (2007). *Daybreak*. Spartacus Press.
@@ -50,7 +50,7 @@ The works I *have* read will be marked with a "*", if not it's left blank. If I'
 - Schopenhauer, A. (2005). *The World as Will and Representation*. Gyldendal Press.
 - Shenk, J. W. (2005). *Lincoln's Melancholy*. Mariner Books.
 - Spinoza, B. (2002). *Ethics*. Pax Press.
-- Tomassi, P. (1999). *Logic*. Routledge.*
+- Tomassi, P. (1999). *Logic*. Routledge.
 - Vilje, H. (2022). *One Swallow Doesn't Make a Summer*. Res Publica.
 - Wittgenstein, L. (2010). *Philosophical Investigations*. Pax Press.
 - Zapffe, P. W. (1996). *On the Tragic*. Pax Press.
@@ -63,10 +63,10 @@ The works I *have* read will be marked with a "*", if not it's left blank. If I'
 - Darwin, C. (2009). *On the Origin of Species*. Penguin Books.¤
 - Tunstad. E. & Riiser-Larsen, V. (2020). *Neanderthal: The People Who Vanished*. Humanist Press.
 - Friedenberg, J., Silverman, G. & Spivey, M. J. (2021). *Cognitive Science - International Student Edition* (4th edt.). SAGE Publications Inc.
-- Noë, A. (2009). *Out of Our Heads: Why You Are Not Your Brain, and Other Lessons from the Biology of Consciousness*. Hill and Wang.
+- Noë, A. (2009). *Out of Our Heads: Why You Are Not Your Brain, and Other Lessons from the Biology of Consciousness*. Hill and Wang.¤
 
 ## Novels (Not categorized by type of novel...)
-- Bernhard, T. (1990). *Falling Trees*. Gyldendal Press.
+- Bernhard, T. (1990). *Falling Trees*. Gyldendal Press.¤
 - Bjørnebo, J. (1994). *Jonas*. Pax Press.*
 - Bulgakov, M. (1995). *The Master and Margarita*. The Norwegian Book Club.
 - Camus, A. (2020). *The Plague*. Solum Bookfriends.*
