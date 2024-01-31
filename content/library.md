@@ -16,7 +16,9 @@ This is a sorted list of the books I currently own. It's categorized according t
 - Dewey, J. (2005). Art as Experience. Perigee Press.
 - Emerson, R. W. (2003). Nature and Selected Esssays. Penguin Books.
 - Epictetus. (2020). A Handbook in the Art of Living. Arneberg.
+- Frege, G. (2015). Selected Essays. Pax Press.
 - Freud, S. (1997). The Interpretation of Dreams. Wordsworth Press.
+- Hegel, G. W. F. (2013). The Philosophy of Spirit. Vidar Press.
 - Heidegger, M. (2007). Being and Time. Pax Press.
 - Hume, D. (2009). A Treatise of Human Nature. Oxford university Press.
 - Husserl, E. (2019). Cartesian meditation. Hans Reitzels Press.
@@ -64,12 +66,15 @@ This is a sorted list of the books I currently own. It's categorized according t
 - Noë, A. (2009). Out of Our Heads: Why You Are Not Your Brain, and Other Lessons from the Biology of Consciousness. Hill and Wang.
 
 ## Novels (Not categorized by type of novel...)
+- Bernhard, T. (2019). Walking. Spartacus Press.
 - Bernhard, T. (1990). Falling Trees. Gyldendal Press.
+- Bichsel, P. (1993). Der Busant. Ex Libris Press. 
 - Bjørnebo, J. (1994). Jonas. Pax Press.
 - Bulgakov, M. (1995). The Master and Margarita. The Norwegian Book Club.
 - Camus, A. (2020). The Plague. Solum Bookfriends.
 - Camus, A. (2015). The Stranger. Gyldendal Press.
 - Dostoevsky, F. (2016). Crime and Punishment. Solum Press.
+- Hamsun, K. (2021). Hunger. Gyldendal Press.
 - Hemingway, E. (2005). Best of Hemingway, collected works. Gyldendal Press.
 - Ibsen, H. (2018). Peer Gynt. Transit Press.
 - Kielland, A. L. (2008). Poison. Gyldendal Press.
@@ -77,6 +82,7 @@ This is a sorted list of the books I currently own. It's categorized according t
 - Kielland, A. L. (1975). St. Hans party. Gyldendal Press.
 - Loe, E. (1999). Naïve. Super. Cappelen Press.
 - Melville, H. (2013). Moby-Dick. Penguin Books.
+- Obstfelder, S. (2000). Collected Works I-III. Gyldendal Norwegian Press.
 - Pessoa, F. (1997). The Book of Disquiet. Solum Press.
 - Saavedra, M. C. (2005). Don Quixote. Aschehoug Press.
 - Seltzer, T. (2022). American Karmageddon: Thoughts on My Damned Fatherland. The October Press.
