@@ -50,6 +50,7 @@ This is a sorted list of the books I currently own. It's categorized according t
 - Schopenhauer, A. (2005). *The World as Will and Representation*. Gyldendal Press.
 - Shenk, J. W. (2005). *Lincoln's Melancholy*. Mariner Books.
 - Spinoza, B. (2002). *Ethics*. Pax Press.
+- Utaker, A. (2018). *Does the Brain Think?*. Vidar Press.
 - Vilje, H. (2022). *One Swallow Doesn't Make a Summer*. Res Publica.
 - Wittgenstein, L. (2010). *Philosophical Investigations*. Pax Press.
 - Zapffe, P. W. (1996). *On the Tragic*. Pax Press.
