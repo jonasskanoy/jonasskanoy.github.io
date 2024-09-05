@@ -1,6 +1,6 @@
 +++ 
 author = "Jonas Skånøy" 
-title = "I got in! Plus some updates" 
+title = "I got in! Plus some updates." 
 date = "2023-07-28" 
 tags = ["🆕 Updates", "🏫 Uni Stuff",] 
 +++
