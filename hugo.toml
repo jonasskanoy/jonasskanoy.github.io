@@ -7,9 +7,9 @@ paginate = 6
 enableEmoji = true
 
 [services]
-[services.disqus]
-# Enable Disqus comments
-# shortname = "jonasskanoy"
+  [services.disqus]
+  # Enable Disqus comments
+  # shortname = "jonasskanoy"
 
 [markup.highlight]
 noClasses = false
@@ -19,7 +19,7 @@ author = "Jonas Berg Skånøy"
 info = "Philosophy and Tech"
 description = "Jonas Berg Skånøy's personal website"
 keywords = "blog,developer,personal"
-  
+
 avatarurl = "https://github.com/jonasskanoy.png"
 faviconSVG = "https://github.com/jonasskanoy.png"
 favicon_32 = "https://github.com/jonasskanoy.png"
@@ -29,13 +29,13 @@ dateFormat = "January 2, 2006"
 since = 2022
 
 rtl = false
-
 enableTwemoji = true
 
 colorScheme = "auto"
 hidecolorschemetoggle = false
 maxSeeAlsoItems = 5
 
+# Uncomment the following lines to add custom CSS, SCSS, or JS files
 # customCSS = ["css/custom.css"]
 # customSCSS = ["scss/custom.scss"]
 # customJS = ["js/custom.js"]
@@ -93,5 +93,3 @@ url = "tags/"
 name = "Contact me 📞"
 weight = 4
 url = "contact/"
-
-
