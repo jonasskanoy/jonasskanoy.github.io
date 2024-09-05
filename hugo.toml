@@ -90,13 +90,8 @@ weight = 3
 url = "tags/"
 
 [[menu.main]]
-name = "Library 📚"
-weight = 4
-url = "library/"
-
-[[menu.main]]
 name = "Contact me 📞"
-weight = 5
+weight = 4
 url = "contact/"
 
 
