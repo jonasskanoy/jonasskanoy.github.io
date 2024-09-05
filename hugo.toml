@@ -15,38 +15,44 @@ enableEmoji = true
 noClasses = false
 
 [params]
-  author = "Jonas Berg Skånøy"
-  info = "Philosophy and Tech"
-  description = "Jonas Berg Skånøy's personal website"
-  keywords = "blog,developer,personal"
+author = "Jonas Berg Skånøy"
+info = "Philosophy and Tech"
+description = "Jonas Berg Skånøy's personal website"
+keywords = "blog,developer,personal"
   
-  avatarurl = "images/profile.jpg"
-  faviconSVG = "images/profile.jpg"
-  favicon_32 = "images/profile.jpg"
-  favicon_16 = "images/profile.jpg"
+avatarurl = "images/profile.jpg"
+faviconSVG = "images/profile.jpg"
+favicon_32 = "images/profile.jpg"
+favicon_16 = "images/profile.jpg"
 
-  dateFormat = "January 2, 2006"
-  since = 2022
+dateFormat = "January 2, 2006"
+since = 2022
 
 rtl = false
 
-  enableTwemoji = true
+enableTwemoji = true
 
-  colorScheme = "auto"
-  hidecolorschemetoggle = false
-  maxSeeAlsoItems = 5
+colorScheme = "auto"
+hidecolorschemetoggle = false
+maxSeeAlsoItems = 5
 
-  # customCSS = ["css/custom.css"]
-  # customSCSS = ["scss/custom.scss"]
-  # customJS = ["js/custom.js"]
+# customCSS = ["css/custom.css"]
+# customSCSS = ["scss/custom.scss"]
+# customJS = ["js/custom.js"]
 
 [taxonomies]
-  category = "categories"
-  series = "series"
-  tag = "tags"
-  author = "authors"
+category = "categories"
+series = "series"
+tag = "tags"
+author = "authors"
 
 # Social links
+[[params.social]]
+name = "Github"
+icon = "fa-brands fa-github fa-2x"
+weight = 1
+url = "https://github.com/jonasskanoy/"
+
 [[params.social]]
 name = "RSS"
 icon = "fa fa-rss-square fa-2x"
@@ -54,7 +60,6 @@ weight = 1
 url = "https://www.jonasskanoy.xyz/posts/index.xml"
 rel = "alternate"
 type = "application/rss+xml"
-
 
 # Menu links
 [[menu.main]]
@@ -81,3 +86,5 @@ url = "library/"
 name = "Contact me 📞"
 weight = 5
 url = "contact/"
+
+
