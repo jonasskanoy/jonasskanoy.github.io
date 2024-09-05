@@ -73,11 +73,6 @@ weight = 4
 url = "library/"
 
 [[menu.main]]
-name = "Donate 💸"
-weight = 5
-url = "donate/"
-
-[[menu.main]]
 name = "Contact me 📞"
-weight = 6
+weight = 5
 url = "contact/"
