@@ -9,3 +9,5 @@ Hi! 👋 Welcome to my website, powered by [*Hugo*](https://www.gohugo.io), and 
 If you're instrested, or I've applied for a job at your workplace, consider checking out my *Curriculum Vitae*, where you can check out my accomplishments. The list under shows both a Norwegian and a English version of my CV: 
 * Click [here](/CV/CV_Norsk.pdf) (Norwegian)
 * Click [here](/CV/CV_English.pdf) (English)
+
+My personal library is located [here](https://www.goodreads.com/review/list/171603286?shelf=personal-library), via Goodreads.
