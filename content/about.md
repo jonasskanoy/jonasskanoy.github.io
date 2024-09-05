@@ -4,7 +4,7 @@ description = "Hugo, the world's fastest framework for building websites"
 aliases = ["about"]
 +++
 ## About me
-Hi! :wave: Welcome to my website, powered by [*Hugo*](https://www.gohugo.io), and written in *GO*. Massive shoutout to [Luiz F. A. de Prá](https://github.com/luizdepra) for making this amazing theme, called [*Coder*](https://github.com/luizdepra/hugo-coder).
+Hi! 👋 Welcome to my website, powered by [*Hugo*](https://www.gohugo.io), and written in *GO*. Massive shoutout to [Luiz F. A. de Prá](https://github.com/luizdepra) for making this amazing theme, called [*Coder*](https://github.com/luizdepra/hugo-coder).
 
 So, as you might tell, my name is Jonas Skånøy. I reside in Norway, and I'm currently living the life of a poor student. I get busy with both philosophy and tech, though the interest in the latter has died down over the years. Hopefully the flame of inspiration will come back with my new project to make myself a homelab server!
 
