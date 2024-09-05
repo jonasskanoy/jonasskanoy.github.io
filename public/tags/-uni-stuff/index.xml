@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>🏫 Uni Stuff on Jonas Berg Skånøy</title>
+    <link>http://localhost:1313/tags/-uni-stuff/</link>
+    <description>Recent content in 🏫 Uni Stuff on Jonas Berg Skånøy</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 28 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/-uni-stuff/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I got in! Plus some updates</title>
+      <link>http://localhost:1313/posts/igipsu/</link>
+      <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/igipsu/</guid>
+      <description>&lt;p&gt;I finally got a definite indication: I got into Cognitive Science program at the University of Bergen! I&amp;rsquo;m very excited for what this entails, and especially to see what Bergen is like. I have used the past week (I found out that I got in only 4-5 days ago) to do some research on how my following semesters are structured, as well as to register and pay the student fee for it.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My thoughts on this semester.</title>
+      <link>http://localhost:1313/posts/whatsnew/</link>
+      <pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/whatsnew/</guid>
+      <description>&lt;figure class=&#34;right-aligned&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/edinburgh.jpg&#34;&#xA;    alt=&#34;This was me, touching the David Hume statues toe while visting my friend in Edinburgh April last year. Had a blast of a time with the whole group who went down.&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;This semester is going to be my final one as a bachelor student in philosophy! Am very excited to get started, and whilst what comes after is uncertain, I am very grateful for the chance I&amp;rsquo;ve been given to study something, simply because I like the subject. I am grateful for having a stable and safe family dynamic, who I can rely on both emotionally, but also with regards to practical manners. They have been supportive in my decisions from day one, and have been a huge help for me in the process througwards my own future.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

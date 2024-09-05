@@ -1,0 +1,83 @@
+baseurl = "https://jonasskanoy.xyz"
+title = "Jonas Berg Skånøy"
+theme = "hugo-coder"
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+paginate = 20
+
+[services]
+[services.disqus]
+disqusShortname = "jonasskanoy"
+
+[markup.highlight]
+style = "github-dark"
+
+[params]
+  author = "Jonas Berg Skånøy"
+  info = "Philosophy and Tech"
+  description = "Jonas Berg Skånøy's personal website"
+  keywords = "blog,developer,personal"
+  avatarurl = "images/profile.jpg"
+
+  faviconSVG = "images/profile.jpg"
+  favicon_32 = "images/profile.jpg"
+  favicon_16 = "images/profile.jpg"
+
+  since = 2022
+
+  enableTwemoji = true
+
+  colorScheme = "auto"
+  hidecolorschemetoggle = false
+
+  # customCSS = ["css/custom.css"]
+  # customSCSS = ["scss/custom.scss"]
+  # customJS = ["js/custom.js"]
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  author = "authors"
+
+# Social links
+[[params.social]]
+name = "RSS"
+icon = "fa fa-rss-square fa-2x"
+weight = 1
+url = "https://www.jonasskanoy.xyz/posts/index.xml"
+rel = "alternate"
+type = "application/rss+xml"
+
+
+# Menu links
+[[menu.main]]
+name = "About 👨"
+weight = 1
+url = "about/"
+
+[[menu.main]]
+name = "Blog 📜"
+weight = 2
+url = "posts/"
+
+[[menu.main]]
+name = "Tags 🏷️"
+weight = 3
+url = "tags/"
+
+[[menu.main]]
+name = "Library 📚"
+weight = 4
+url = "library/"
+
+[[menu.main]]
+name = "Donate 💸"
+weight = 5
+url = "donate/"
+
+[[menu.main]]
+name = "Contact me 📞"
+weight = 6
+url = "contact/"

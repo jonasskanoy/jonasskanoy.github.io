@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Jonas Berg Skånøy</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on Jonas Berg Skånøy</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 28 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🏫 Uni Stuff</title>
+      <link>http://localhost:1313/tags/-uni-stuff/</link>
+      <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/-uni-stuff/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>🆕 Updates</title>
+      <link>http://localhost:1313/tags/-updates/</link>
+      <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/-updates/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>🎓 Philosophy</title>
+      <link>http://localhost:1313/tags/-philosophy/</link>
+      <pubDate>Sun, 08 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/-philosophy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>📚 Book Review / Analysis</title>
+      <link>http://localhost:1313/tags/-book-review-/-analysis/</link>
+      <pubDate>Wed, 10 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/-book-review-/-analysis/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
