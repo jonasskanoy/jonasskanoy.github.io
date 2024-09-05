@@ -1,3 +1,10 @@
++++ 
+author = "Jonas Skånøy" 
+title = "My thoughts on this semester." 
+date = "2023-01-15" 
+tags = ["🆕 Updates", "🏫 Uni Stuff",] 
++++
+
 This semester is going to be my final one as a bachelor student in philosophy! I am excited to get started, and whilst what comes after is uncertain, I am grateful for the chance I have been given to study something, simply because I like the subject. I am grateful for having a stable and safe family dynamic, who I can rely on both emotionally, but also with regards to practical manners. They have been supportive in my decisions from day one and have been a huge help for me in the process towards my own future.
 
 With regards to creating my own path, both educationally, but also personally, I have been thinking of a talk I attended a couple of days ago. It took place at Studentersamfundet, and was held by Ole Einar Bøhn. There he talked about Nietzschean critique of the education system, and how current academia as it stands today lacks the so-called "forming" part of former education. This might be a strange term for my English readers, but if you consider the Norwegian words for education, it starts to make a whole lot of sense.
