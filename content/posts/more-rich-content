@@ -10,9 +10,7 @@ tags = [
 
 Hugo Coder provides some Custom Shortcodes.
 <!--more-->
----
-
-## Shortcodes Avisos
+--- ## Shortcodes Avisos
 
 {{< notice note >}}
 One note here.
