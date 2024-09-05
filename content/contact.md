@@ -1,7 +1,7 @@
-+++
-title = ""
-description = "Hugo, the world's fastest framework for building websites"
-aliases = ["contact"]
++++ 
+title = "" 
+description = "Hugo, the world's fastest framework for building websites" 
+aliases = ["contact"] 
 +++
 
 ## ☎️ Digital Contact Information
@@ -10,5 +10,6 @@ aliases = ["contact"]
 
 ## 📕 Rules
 
-1. Don’t contact me about gossip or political opinions, should go without saying these days.
-2. Don’t contact me asking me to shill your product unless it is all free software. I am not a hardcore tech consumer.
+1. Do not contact me about gossip or political opinions, should go without saying these days.
+
+2. Do not contact me asking me to shill your product unless it is all free software. I am not a hardcore tech consumer.
