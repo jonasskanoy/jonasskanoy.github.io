@@ -20,10 +20,10 @@ info = "Philosophy and Tech"
 description = "Jonas Berg Skånøy's personal website"
 keywords = "blog,developer,personal"
   
-avatarurl = "images/profile.jpg"
-faviconSVG = "images/profile.jpg"
-favicon_32 = "images/profile.jpg"
-favicon_16 = "images/profile.jpg"
+avatarurl = "https://github.com/jonasskanoy.png"
+faviconSVG = "https://github.com/jonasskanoy.png"
+favicon_32 = "https://github.com/jonasskanoy.png"
+favicon_16 = "https://github.com/jonasskanoy.png"
 
 dateFormat = "January 2, 2006"
 since = 2022
