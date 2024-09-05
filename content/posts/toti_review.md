@@ -53,7 +53,7 @@ To put it very briefly here, Nietzsche did not have a problem with Socrates _per
 
  
 
-In this passage, Nietzsche recaps the history of philosophy in the past 2300 years in six truly short points. He starts off with Plato’s thought of the true world being in the world of forms, beyond our material reality. [^2] With this, Plato shifts the being of truth to a reality inaccessible to our senses. 
+In this passage, Nietzsche recaps the history of philosophy in the past 2300 years in six truly short points. He starts off with Plato’s thought of the true world being in the world of forms, beyond our material reality.[^2] With this, Plato shifts the being of truth to a reality inaccessible to our senses. 
 
  
 
