@@ -1,5 +1,5 @@
 +++
-title = ""
+title = "About"
 description = "Hugo, the world's fastest framework for building websites"
 aliases = ["about"]
 +++
@@ -14,4 +14,4 @@ If you are interested, or I have applied for a job at your workplace, consider c
 
 - Click [here](/CV/CV_English.pdf) (English)
 
-My personal library is located [here](https://www.goodreads.com/review/list/171603286?shelf=personal-library), via Goodreads.
+My personal library is located [here]([https://www.goodreads.com/review/list/171603286?shelf=personal-library](https://www.goodreads.com/review/list/171603286?order=a&shelf=personal-library&sort=author)), via Goodreads.
