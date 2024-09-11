@@ -94,10 +94,8 @@ name = "Contact me 📞"
 weight = 4
 url = "contact/"
 
-<script src="https://utteranc.es/client.js"
-        repo="jonasskanoy/jonasskanoy.github.io"
-        issue-term="title"
-        theme="preferred-color-scheme"
-        crossorigin="anonymous"
-        async>
-</script>
+[params.utterances]
+  repo = "https://utteranc.es/#jonasskanoy/jonasskanoy.github.io" # https://utteranc.es/#heading-repository
+  issueTerm = "https://utteranc.es/#title" # https://utteranc.es/#heading-mapping
+  theme = "https://utteranc.es/#preferred-color-scheme" # https://utteranc.es/#heading-theme
+  crossorigin="https://utteranc.es/#anonymous"
