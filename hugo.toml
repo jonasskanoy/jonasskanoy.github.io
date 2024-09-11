@@ -46,6 +46,12 @@ series = "series"
 tag = "tags"
 author = "authors"
 
+[params.utterances]
+  repo = "https://utteranc.es/clienct.js/jonasskanoy/jonasskanoy.github.io" # https://utteranc.es/#heading-repository
+  issueTerm = "https://utteranc.es/clienct.js/jonasskanoy/jonasskanoy.github.io/title" # https://utteranc.es/#heading-mapping
+  theme = "https://utteranc.es/clienct.js/jonasskanoy/jonasskanoy.github.io/preferred-color-scheme" # https://utteranc.es/#heading-theme
+  crossorigin="https://utteranc.es/clienct.js/jonasskanoy/jonasskanoy.github.io/anonymous"
+  
 # Social links
 [[params.social]]
 name = "Github"
@@ -93,9 +99,3 @@ url = "tags/"
 name = "Contact me 📞"
 weight = 4
 url = "contact/"
-
-[params.utterances]
-  repo = "https://utteranc.es/#jonasskanoy/jonasskanoy.github.io" # https://utteranc.es/#heading-repository
-  issueTerm = "https://utteranc.es/#title" # https://utteranc.es/#heading-mapping
-  theme = "https://utteranc.es/#preferred-color-scheme" # https://utteranc.es/#heading-theme
-  crossorigin="https://utteranc.es/#anonymous"
