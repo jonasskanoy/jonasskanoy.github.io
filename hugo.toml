@@ -75,7 +75,7 @@ url = "https://letterboxd.com/jonas_skanoy/"
 name = "RSS"
 icon = "fa fa-rss-square fa-2x"
 weight = 1
-url = "https://www.jonasskanoy.xyz/posts/index.xml"
+url = "https://jonasskanoy.github.io/posts/index.xml"
 rel = "alternate"
 type = "application/rss+xml"
 
