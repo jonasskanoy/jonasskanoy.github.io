@@ -14,4 +14,4 @@ If you are interested, or I have applied for a job at your workplace, consider c
 
 - Click [here](/CV/CV_English.pdf) (English)
 
-My personal library is located [here](https://www.goodreads.com/review/list/171603286-jonas-berg-sk-n-y?order=a&shelf=book-collection), via Goodreads.
+My personal library is located [here](https://www.goodreads.com/review/list/171603286-jonas-berg-sk-n-y?order=a&shelf=book-collection&sort=title), via Goodreads.
